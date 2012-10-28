@@ -1,0 +1,4661 @@
+packages:
+  AdobeReader_enu:
+    ensure: '9.5.1-1'
+  ConsoleKit:
+    ensure: '0.4.5-2.fc17'
+  ConsoleKit-libs:
+    ensure: '0.4.5-2.fc17'
+  ConsoleKit-x11:
+    ensure: '0.4.5-2.fc17'
+  Django:
+    ensure: '1.4.1-1.fc17'
+  GConf2:
+    ensure: '3.2.5-1.fc17'
+  GeoIP:
+    ensure: '1.4.8-2.1.fc17'
+  ImageMagick:
+    ensure: '6.7.5.6-4.fc17'
+  ImageMagick-perl:
+    ensure: '6.7.5.6-4.fc17'
+  ModemManager:
+    ensure: '0.5.3.96-1.fc17'
+  NetworkManager:
+    ensure: '0.9.4.0-9.git20120521.fc17'
+  NetworkManager-glib:
+    ensure: '0.9.4.0-9.git20120521.fc17'
+  NetworkManager-openvpn:
+    ensure: '0.9.3.997-1.fc17'
+  NetworkManager-pptp:
+    ensure: '0.9.3.997-1.fc17'
+  NetworkManager-vpnc:
+    ensure: '0.9.3.997-1.fc17'
+  ORBit2:
+    ensure: '2.14.19-3.fc17'
+  OpenEXR-libs:
+    ensure: '1.7.0-4.fc17'
+  PackageKit:
+    ensure: '0.7.5-1.fc17'
+  PackageKit-glib:
+    ensure: '0.7.5-1.fc17'
+  PackageKit-gstreamer-plugin:
+    ensure: '0.7.5-1.fc17'
+  PackageKit-qt:
+    ensure: '0.7.5-1.fc17'
+  PackageKit-yum:
+    ensure: '0.7.5-1.fc17'
+  PackageKit-yum-plugin:
+    ensure: '0.7.5-1.fc17'
+  PyQt4:
+    ensure: '4.9.1-2.fc17'
+  PyYAML:
+    ensure: '3.10-3.fc17'
+  SDL:
+    ensure: '1.2.14-16.fc17'
+  SDL_image:
+    ensure: '1.2.12-1.fc17'
+  VMDKstream:
+    ensure: '0.2-3.fc17'
+  a52dec:
+    ensure: '0.7.4-16.fc17'
+  aalib-libs:
+    ensure: '1.4.0-0.20.rc5.fc17'
+  abrt:
+    ensure: '2.0.12-1.fc17'
+  abrt-addon-ccpp:
+    ensure: '2.0.12-1.fc17'
+  abrt-addon-kerneloops:
+    ensure: '2.0.12-1.fc17'
+  abrt-addon-python:
+    ensure: '2.0.12-1.fc17'
+  abrt-addon-vmcore:
+    ensure: '2.0.12-1.fc17'
+  abrt-addon-xorg:
+    ensure: '2.0.12-1.fc17'
+  abrt-dbus:
+    ensure: '2.0.12-1.fc17'
+  abrt-desktop:
+    ensure: '2.0.12-1.fc17'
+  abrt-gui:
+    ensure: '2.0.12-1.fc17'
+  abrt-libs:
+    ensure: '2.0.12-1.fc17'
+  abrt-plugin-bodhi:
+    ensure: '2.0.12-1.fc17'
+  abrt-retrace-client:
+    ensure: '2.0.12-1.fc17'
+  acl:
+    ensure: '2.2.51-5.fc17'
+  acpid:
+    ensure: '2.0.16-4.fc17'
+  adobe-release-x86_64:
+    ensure: '1.0-1'
+  adwaita-cursor-theme:
+    ensure: '3.4.2-1.fc17'
+  adwaita-gtk3-theme:
+    ensure: '3.4.2-1.fc17'
+  aeolus-all:
+    ensure: '0.10.6-1.fc17'
+  aeolus-conductor:
+    ensure: '0.10.6-1.fc17'
+  aeolus-conductor-daemons:
+    ensure: '0.10.6-1.fc17'
+  aeolus-conductor-doc:
+    ensure: '0.10.6-1.fc17'
+  aeolus-configure:
+    ensure: '2.6.1-1.fc17'
+  aether:
+    ensure: '1.13.1-2.fc17'
+  agg:
+    ensure: '2.5-13.fc17'
+  akonadi:
+    ensure: '1.7.2-1.fc17'
+  alsa-firmware:
+    ensure: '1.0.25-1.fc17'
+  alsa-lib:
+    ensure: '1.0.25-3.fc17'
+  alsa-plugins-pulseaudio:
+    ensure: '1.0.25-3.fc17'
+  alsa-tools-firmware:
+    ensure: '1.0.25-2.fc17'
+  alsa-utils:
+    ensure: '1.0.25-8.fc17'
+  amarok:
+    ensure: '2.6.0-2.fc17'
+  amarok-doc:
+    ensure: '2.6.0-2.fc17'
+  amarok-libs:
+    ensure: '2.6.0-2.fc17'
+  amarok-utils:
+    ensure: '2.6.0-2.fc17'
+  anaconda:
+    ensure: '17.29-1.fc17'
+  anaconda-yum-plugins:
+    ensure: '1.0-7.fc17'
+  animal-sniffer:
+    ensure: '1.7-3.fc17'
+  ant:
+    ensure: '1.8.3-1.fc17'
+  ant-junit:
+    ensure: '1.8.3-1.fc17'
+  antlr-tool:
+    ensure: '2.7.7-21.fc17'
+  antlr3-java:
+    ensure: '3.4-6.fc17'
+  aopalliance:
+    ensure: '1.0-1.fc17'
+  apache-commons-beanutils:
+    ensure: '1.8.3-6.fc17'
+  apache-commons-cli:
+    ensure: '1.2-6.fc17'
+  apache-commons-codec:
+    ensure: '1.6-2.fc17'
+  apache-commons-collections:
+    ensure: '3.2.1-12.fc17'
+  apache-commons-configuration:
+    ensure: '1.6-7.fc17'
+  apache-commons-dbcp:
+    ensure: '1.4-9.fc17'
+  apache-commons-digester:
+    ensure: '1.8.1-10.fc17'
+  apache-commons-discovery:
+    ensure: '0.5-3.fc17'
+  apache-commons-io:
+    ensure: '2.3-1.fc17'
+  apache-commons-jxpath:
+    ensure: '1.3-6.fc15'
+  apache-commons-lang:
+    ensure: '2.6-6.fc17'
+  apache-commons-lang3:
+    ensure: '3.0.1-2.fc17'
+  apache-commons-logging:
+    ensure: '1.1.1-19.fc17'
+  apache-commons-math:
+    ensure: '2.2-3.fc17'
+  apache-commons-modeler:
+    ensure: '2.0.1-8.fc17'
+  apache-commons-net:
+    ensure: '2.2-4.fc17'
+  apache-commons-parent:
+    ensure: '22-3.fc17'
+  apache-commons-pool:
+    ensure: '1.5.7-2.fc17'
+  apache-commons-validator:
+    ensure: '1.3.1-7.fc17'
+  apache-ivy:
+    ensure: '2.2.0-3.fc17'
+  apache-juddi:
+    ensure: '3.1.3-3.fc17'
+  apache-mime4j:
+    ensure: '0.7.2-2.fc17'
+  apache-mina:
+    ensure: '2.0.4-2.fc17'
+  apache-scout:
+    ensure: '1.2.6-2.fc17'
+  apache-sshd:
+    ensure: '0.7.0-1.fc17'
+  apper:
+    ensure: '0.7.2-3.fc17'
+  apr:
+    ensure: '1.4.6-1.fc17'
+  apr-util:
+    ensure: '1.4.1-2.fc17'
+  apr-util-ldap:
+    ensure: '1.4.1-2.fc17'
+  aqute-bnd:
+    ensure: '0.0.363-6.fc17'
+  aqute-bndlib:
+    ensure: '1.50.0-2.fc17'
+  ar9170-firmware:
+    ensure: '2009.05.28-4.fc17'
+  args4j:
+    ensure: '2.0.16-7.fc17'
+  ark:
+    ensure: '4.8.5-1.fc17'
+  ark-libs:
+    ensure: '4.8.5-1.fc17'
+  arquillian-core:
+    ensure: '1.0.2-1.fc17'
+  arquillian-osgi:
+    ensure: '1.0.2-2.fc17'
+  asm2:
+    ensure: '2.2.3-8.fc17'
+  aspectjweaver:
+    ensure: '1.6.12-4.fc17'
+  aspell:
+    ensure: '0.60.6.1-3.fc17'
+  aspell-en:
+    ensure: '7.1-3.fc17'
+  async-http-client:
+    ensure: '1.6.1-1.fc16'
+  at:
+    ensure: '3.1.13-8.fc17'
+  atinject:
+    ensure: '1-6.20100611svn86.fc17'
+  atk:
+    ensure: '2.4.0-1.fc17'
+  atlas:
+    ensure: '3.8.4-3.fc17'
+  atmel-firmware:
+    ensure: '1.3-9.fc17'
+  attica:
+    ensure: '0.4.0-1.fc17'
+  attr:
+    ensure: '2.4.46-5.fc17'
+  audit:
+    ensure: '2.2.1-1.fc17'
+  audit-libs:
+    ensure: '2.2.1-1.fc17'
+  audit-libs-python:
+    ensure: '2.2.1-1.fc17'
+  augeas:
+    ensure: '0.10.0-3.fc17'
+  augeas-libs:
+    ensure: '0.10.0-3.fc17'
+  authconfig:
+    ensure: '6.2.1-1.fc17'
+  authconfig-gtk:
+    ensure: '6.2.1-1.fc17'
+  autoconf:
+    ensure: '2.68-4.fc17'
+  autocorr-en:
+    ensure: '3.5.6.2-2.fc17'
+  automake:
+    ensure: '1.11.3-1.fc17'
+  avahi:
+    ensure: '0.6.31-5.fc17'
+  avahi-autoipd:
+    ensure: '0.6.31-5.fc17'
+  avahi-glib:
+    ensure: '0.6.31-5.fc17'
+  avahi-libs:
+    ensure: '0.6.31-5.fc17'
+  avahi-ui-gtk3:
+    ensure: '0.6.31-5.fc17'
+  avalon-framework:
+    ensure: '4.3-5.fc17'
+  avalon-logkit:
+    ensure: '2.1-8.fc17'
+  avro:
+    ensure: '1.6.2-3.fc17'
+  axiom:
+    ensure: '1.2.12-2.fc17'
+  axis:
+    ensure: '1.4-16.fc17'
+  b43-fwcutter:
+    ensure: '015-2.fc17'
+  b43-openfwwf:
+    ensure: '5.2-7.fc17'
+  backport-util-concurrent:
+    ensure: '3.1-7'
+  base64coder:
+    ensure: '20101219-2.fc16'
+  basesystem:
+    ensure: '10.0-6.fc17'
+  bash:
+    ensure: '4.2.37-2.fc17'
+  batik:
+    ensure: '1.8-0.1.svn1230816.fc17'
+  bc:
+    ensure: '1.06.95-6.fc17'
+  bcel:
+    ensure: '5.2-11.fc17'
+  bea-stax:
+    ensure: '1.2.0-3.fc17'
+  bea-stax-api:
+    ensure: '1.2.0-3.fc17'
+  bean-validation-api:
+    ensure: '1.0.0-4.fc17'
+  beefy-miracle-backgrounds-kde:
+    ensure: '16.91.0-2.fc17'
+  beefy-miracle-backgrounds-single:
+    ensure: '16.91.0-2.fc17'
+  beefy-miracle-kde-theme:
+    ensure: '16.91.0.1-1.fc17'
+  beust-jcommander:
+    ensure: '1.17-4.fc17'
+  bind-libs:
+    ensure: '9.9.1-5.P2.fc17'
+  bind-libs-lite:
+    ensure: '9.9.1-5.P2.fc17'
+  bind-license:
+    ensure: '9.9.1-5.P2.fc17'
+  bind-utils:
+    ensure: '9.9.1-5.P2.fc17'
+  binutils:
+    ensure: '2.22.52.0.1-10.fc17'
+  biosdevname:
+    ensure: '0.4.1-1.fc17'
+  bluedevil:
+    ensure: '1.3-0.5.rc2.fc17'
+  bluez:
+    ensure: '4.99-2.fc17'
+  bluez-cups:
+    ensure: '4.99-2.fc17'
+  bluez-libs:
+    ensure: '4.99-2.fc17'
+  boost-date-time:
+    ensure: '1.48.0-13.fc17'
+  boost-filesystem:
+    ensure: '1.48.0-13.fc17'
+  boost-iostreams:
+    ensure: '1.48.0-13.fc17'
+  boost-program-options:
+    ensure: '1.48.0-13.fc17'
+  boost-regex:
+    ensure: '1.48.0-13.fc17'
+  boost-serialization:
+    ensure: '1.48.0-13.fc17'
+  boost-signals:
+    ensure: '1.48.0-13.fc17'
+  boost-system:
+    ensure: '1.48.0-13.fc17'
+  boost-thread:
+    ensure: '1.48.0-13.fc17'
+  bouncycastle:
+    ensure: '1.46-5.fc17'
+  bouncycastle-mail:
+    ensure: '1.46-5.fc17'
+  bridge-utils:
+    ensure: '1.5-3.fc17'
+  brlapi:
+    ensure: '0.5.6-4.fc17'
+  brltty:
+    ensure: '4.3-4.fc17'
+  brscan-skey:
+    ensure: '0.2.3-0'
+  brscan2:
+    ensure: '0.2.5-1'
+  bsf:
+    ensure: '2.4.0-12.fc17'
+  bsh:
+    ensure: '1.3.0-19.fc17'
+  btparser:
+    ensure: '0.18-2.fc17'
+  btrfs-progs:
+    ensure: '0.19-18.fc17'
+  buildnumber-maven-plugin:
+    ensure: '1.0-4.fc17'
+  byteman:
+    ensure: '1.5.2-4.fc17'
+  bzip2:
+    ensure: '1.0.6-4.fc17'
+  bzip2-libs:
+    ensure: '1.0.6-4.fc17'
+  c-ares:
+    ensure: '1.7.5-2.fc17'
+  c2050:
+    ensure: '0.3b-5.fc17'
+  c2070:
+    ensure: '0.99-8.fc17'
+  c3p0:
+    ensure: '0.9.2-0.7.pre1.fc17'
+  ca-certificates:
+    ensure: '2012.81-1.fc17'
+  cagibi:
+    ensure: '0.2.0-2.fc17'
+  cairo:
+    ensure: '1.10.2-7.fc17'
+  cairo-gobject:
+    ensure: '1.10.2-7.fc17'
+  cal10n:
+    ensure: '0.7.4-8.fc17'
+  calligra-core:
+    ensure: '2.5.0-2.fc17'
+  calligra-kdchart:
+    ensure: '2.5.0-2.fc17'
+  calligra-libs:
+    ensure: '2.5.0-2.fc17'
+  calligra-sheets:
+    ensure: '2.5.0-2.fc17'
+  calligra-sheets-libs:
+    ensure: '2.5.0-2.fc17'
+  calligra-stage:
+    ensure: '2.5.0-2.fc17'
+  calligra-stage-libs:
+    ensure: '2.5.0-2.fc17'
+  calligra-words:
+    ensure: '2.5.0-2.fc17'
+  calligra-words-libs:
+    ensure: '2.5.0-2.fc17'
+  ccrtp:
+    ensure: '2.0.2-1.fc17'
+  cdi-api:
+    ensure: '1.0-3.SP4.fc17'
+  cdparanoia-libs:
+    ensure: '10.2-11.fc17'
+  cdrdao:
+    ensure: '1.2.3-13.fc17'
+  cegui06:
+    ensure: '0.6.2-10.fc17'
+  celt:
+    ensure: '0.11.1-3.fc17'
+  celt051:
+    ensure: '0.5.1.3-4.fc17'
+  ceph:
+    ensure: '0.44-5.fc17'
+  cglib:
+    ensure: '2.2-9.fc17'
+  check:
+    ensure: '0.9.8-5.fc17'
+  checkpolicy:
+    ensure: '2.1.10-1.fc17'
+  chkconfig:
+    ensure: '1.3.59-1.fc17'
+  chmlib:
+    ensure: '0.40-5.fc17'
+  cifs-utils:
+    ensure: '5.6-1.fc17'
+  cjet:
+    ensure: '0.8.9-11.fc17'
+  classpathx-mail:
+    ensure: '1.1.2-4.fc17'
+  classworlds:
+    ensure: '1.1-6.fc17'
+  cln:
+    ensure: '1.3.2-4.fc17.1'
+  cloog-ppl:
+    ensure: '0.15.11-3.fc17.1'
+  clucene-core:
+    ensure: '2.3.3.4-6.fc17'
+  codehaus-parent:
+    ensure: '3-4.fc17'
+  codemodel:
+    ensure: '2.6-3.fc17'
+  collectl:
+    ensure: '3.6.3-1.fc17'
+  color-filesystem:
+    ensure: '1-9'
+  colord:
+    ensure: '0.1.21-1.fc17'
+  compat-readline5:
+    ensure: '5.2-19.fc17'
+  comps-extras:
+    ensure: '20-3.fc17'
+  concurrent:
+    ensure: '1.3.4-14.fc17'
+  cookcc:
+    ensure: '0.3.3-5.fc17'
+  cookxml:
+    ensure: '3.0.2-3.fc17'
+  coreutils:
+    ensure: '8.15-7.fc17'
+  cpio:
+    ensure: '2.11-6.fc17'
+  cpp:
+    ensure: '4.7.0-5.fc17'
+  cracklib:
+    ensure: '2.8.18-3.fc17'
+  cracklib-dicts:
+    ensure: '2.8.18-3.fc17'
+  cracklib-python:
+    ensure: '2.8.18-3.fc17'
+  crash:
+    ensure: '6.0.6-1.fc17'
+  crda:
+    ensure: '1.1.2_2011.04.28-2.fc17'
+  createrepo:
+    ensure: '0.9.9-11.fc17'
+  cronie:
+    ensure: '1.4.8-11.fc17'
+  cronie-anacron:
+    ensure: '1.4.8-11.fc17'
+  crontabs:
+    ensure: '1.11-3.20101115git.fc17'
+  cryptopp:
+    ensure: '5.6.1-7.fc17'
+  cryptsetup:
+    ensure: '1.5.0-1.fc17'
+  cryptsetup-libs:
+    ensure: '1.5.0-1.fc17'
+  cryptsetup-python:
+    ensure: '1.5.0-1.fc17'
+  cssparser:
+    ensure: '0.9.6-2.fc17'
+  cups:
+    ensure: '1.5.4-2.fc17'
+  cups-libs:
+    ensure: '1.5.4-2.fc17'
+  cups-pk-helper:
+    ensure: '0.2.2-1.fc17'
+  curl:
+    ensure: '7.24.0-5.fc17'
+  cyrus-sasl:
+    ensure: '2.1.23-31.fc17'
+  cyrus-sasl-gssapi:
+    ensure: '2.1.23-31.fc17'
+  cyrus-sasl-lib:
+    ensure: '2.1.23-31.fc17'
+  cyrus-sasl-md5:
+    ensure: '2.1.23-31.fc17'
+  cyrus-sasl-plain:
+    ensure: '2.1.23-31.fc17'
+  dash:
+    ensure: '0.5.7-3.fc17'
+  db4:
+    ensure: '4.8.30-10.fc17'
+  db4-utils:
+    ensure: '4.8.30-10.fc17'
+  dbus:
+    ensure: '1.4.10-4.fc17'
+  dbus-glib:
+    ensure: '0.98-2.fc17'
+  dbus-libs:
+    ensure: '1.4.10-4.fc17'
+  dbus-python:
+    ensure: '0.83.0-9.fc17'
+  dbus-x11:
+    ensure: '1.4.10-4.fc17'
+  dbusmenu-qt:
+    ensure: '0.9.0-3.fc17'
+  dejavu-fonts-common:
+    ensure: '2.33-3.fc17'
+  dejavu-lgc-sans-fonts:
+    ensure: '2.33-3.fc17'
+  dejavu-lgc-sans-mono-fonts:
+    ensure: '2.33-3.fc17'
+  dejavu-sans-fonts:
+    ensure: '2.33-3.fc17'
+  dejavu-sans-mono-fonts:
+    ensure: '2.33-3.fc17'
+  dejavu-serif-fonts:
+    ensure: '2.33-3.fc17'
+  deltacloud-core:
+    ensure: '1.0.0-8.fc17'
+  deltacloud-core-ec2:
+    ensure: '1.0.0-8.fc17'
+  deltacloud-core-rhevm:
+    ensure: '1.0.0-8.fc17'
+  deltacloud-core-vsphere:
+    ensure: '1.0.0-8.fc17'
+  deltarpm:
+    ensure: '3.6-0.7.20110223git.fc17'
+  derby:
+    ensure: '10.6.2.1-2.fc17'
+  desktop-file-utils:
+    ensure: '0.19-6.fc17'
+  device-mapper:
+    ensure: '1.02.74-6.fc17'
+  device-mapper-event:
+    ensure: '1.02.74-6.fc17'
+  device-mapper-event-libs:
+    ensure: '1.02.74-6.fc17'
+  device-mapper-libs:
+    ensure: '1.02.74-6.fc17'
+  device-mapper-multipath:
+    ensure: '0.4.9-26.fc17'
+  device-mapper-multipath-libs:
+    ensure: '0.4.9-26.fc17'
+  dhclient:
+    ensure: '4.2.4-9.P1.fc17'
+  dhcp-common:
+    ensure: '4.2.4-9.P1.fc17'
+  dhcp-libs:
+    ensure: '4.2.4-9.P1.fc17'
+  dialog:
+    ensure: '1.1-15.20110707.fc17'
+  diffutils:
+    ensure: '3.2-6.fc17'
+  digikam:
+    ensure: '2.8.0-1.fc17'
+  digikam-doc:
+    ensure: '2.8.0-1.fc17'
+  digikam-libs:
+    ensure: '2.8.0-1.fc17'
+  dirac-libs:
+    ensure: '1.0.2-8.fc17'
+  djvulibre:
+    ensure: '3.5.24-5.fc17'
+  djvulibre-libs:
+    ensure: '3.5.24-5.fc17'
+  dmidecode:
+    ensure: '2.11-8.fc17'
+  dmraid:
+    ensure: '1.0.0.rc16-16.fc17'
+  dmraid-events:
+    ensure: '1.0.0.rc16-16.fc17'
+  dnsjava:
+    ensure: '2.0.6-9.fc17'
+  dnsmasq:
+    ensure: '2.59-5.fc17'
+  docbook-dtds:
+    ensure: '1.0-56.fc17'
+  docbook-style-xsl:
+    ensure: '1.76.1-5.fc17'
+  dom4j:
+    ensure: '1.6.1-8.fc17'
+  dos2unix:
+    ensure: '5.3.3-1.fc17'
+  dosfstools:
+    ensure: '3.0.12-2.fc17'
+  dracut:
+    ensure: '018-98.git20120813.fc17'
+  dstat:
+    ensure: '0.7.2-7.fc17'
+  dump:
+    ensure: '0.4-0.12.b44.fc17'
+  dvd+rw-tools:
+    ensure: '7.1-9.fc17'
+  dvipdfm:
+    ensure: '0.13.2d-42.fc15'
+  dvipng:
+    ensure: '1.14-3.fc17'
+  e2fsprogs:
+    ensure: '1.42.3-2.fc17'
+  e2fsprogs-libs:
+    ensure: '1.42.3-2.fc17'
+  easymock:
+    ensure: '1.2-15.fc17'
+  easymock2:
+    ensure: '2.5.2-6.fc17'
+  ebook-tools-libs:
+    ensure: '0.2.0-4.fc17'
+  ebtables:
+    ensure: '2.0.10-5.fc17'
+  ecj:
+    ensure: '3.4.2-13.fc17'
+  ed:
+    ensure: '1.5-3.fc17'
+  efibootmgr:
+    ensure: '0.5.4-12.fc17'
+  eject:
+    ensure: '2.1.5-22.fc17'
+  elfutils:
+    ensure: '0.154-2.fc17'
+  elfutils-libelf:
+    ensure: '0.154-2.fc17'
+  elfutils-libs:
+    ensure: '0.154-2.fc17'
+  emma:
+    ensure: '2.0.5312-8.fc17'
+  enblend:
+    ensure: '4.0-12.fc17'
+  enca:
+    ensure: '1.13-3.fc17'
+  enchant:
+    ensure: '1.6.0-4.fc17'
+  ethtool:
+    ensure: '3.2-2.fc17'
+  euca2ools:
+    ensure: '2.0.2-1.fc17'
+  exiv2-libs:
+    ensure: '0.22-6.fc17'
+  expat:
+    ensure: '2.1.0-1.fc17'
+  faad2-libs:
+    ensure: '2.7-2.fc17'
+  facter:
+    ensure: '1.6.13-1.fc17'
+  fcoe-utils:
+    ensure: '1.0.22-2.fc17'
+  febootstrap-supermin-helper:
+    ensure: '3.18-1.fc17'
+  fedora-bookmarks:
+    ensure: '15-0.2'
+  fedora-logos:
+    ensure: '17.0.2-5.fc17'
+  fedora-release:
+    ensure: '17-1'
+  fedora-release-notes:
+    ensure: '17.1.0-1.fc17'
+  felix-bundlerepository:
+    ensure: '1.6.6-3.fc17'
+  felix-configadmin:
+    ensure: '1.4.0-2.fc17'
+  felix-framework:
+    ensure: '4.0.2-1.fc17'
+  felix-osgi-compendium:
+    ensure: '1.4.0-11.fc17'
+  felix-osgi-core:
+    ensure: '1.4.0-9.fc17'
+  felix-osgi-foundation:
+    ensure: '1.2.0-8.fc17'
+  felix-osgi-obr:
+    ensure: '1.0.2-5.fc17'
+  felix-osgi-obr-resolver:
+    ensure: '0.1.0-0.3.Beta1.fc17'
+  felix-parent:
+    ensure: '1.2.1-6.fc16'
+  felix-shell:
+    ensure: '1.4.2-3.fc15'
+  felix-utils:
+    ensure: '1.1.0-4.fc17'
+  fence-agents:
+    ensure: '3.1.9-1.fc17'
+  ffmpeg-compat:
+    ensure: '0.6.6-1.fc17'
+  ffmpeg-libs:
+    ensure: '0.10.4-2.fc17'
+  fftw-libs:
+    ensure: '3.3.1-3.fc17'
+  fftw-libs-double:
+    ensure: '3.3.1-3.fc17'
+  fftw-libs-long:
+    ensure: '3.3.1-3.fc17'
+  fftw-libs-quad:
+    ensure: '3.3.1-3.fc17'
+  fftw-libs-single:
+    ensure: '3.3.1-3.fc17'
+  file:
+    ensure: '5.11-2.fc17'
+  file-libs:
+    ensure: '5.11-2.fc17'
+  filelight:
+    ensure: '4.8.5-1.fc17'
+  filesystem:
+    ensure: '3-2.fc17'
+  findutils:
+    ensure: '4.5.10-4.fc17'
+  finger:
+    ensure: '0.17-44.fc17'
+  fipscheck:
+    ensure: '1.3.0-3.fc17'
+  fipscheck-lib:
+    ensure: '1.3.0-3.fc17'
+  firefox:
+    ensure: '15.0-1.fc17'
+  firstboot:
+    ensure: '17.3-1.fc17'
+  flac:
+    ensure: '1.2.1-9.fc17'
+  flac123:
+    ensure: '0.0.11-11.fc17'
+  flash-plugin:
+    ensure: '11.2.202.238-release'
+  fontconfig:
+    ensure: '2.8.0-7.fc17'
+  fontpackages-filesystem:
+    ensure: '1.44-4.fc17'
+  foomatic:
+    ensure: '4.0.8-8.fc17'
+  foomatic-db:
+    ensure: '4.0-31.20120103.fc17'
+  foomatic-db-filesystem:
+    ensure: '4.0-31.20120103.fc17'
+  foomatic-db-ppds:
+    ensure: '4.0-31.20120103.fc17'
+  foomatic-filters:
+    ensure: '4.0.8-8.fc17'
+  fop:
+    ensure: '1.0-18.fc17'
+  forge-parent:
+    ensure: '5-7.fc17'
+  fpaste:
+    ensure: '0.3.7.1-2.fc17'
+  fprintd:
+    ensure: '0.4.1-2.fc17'
+  fprintd-pam:
+    ensure: '0.4.1-2.fc17'
+  freeglut:
+    ensure: '2.8.0-3.fc17'
+  freemarker:
+    ensure: '2.3.13-14.fc17'
+  freetype:
+    ensure: '2.4.8-3.fc17'
+  fribidi:
+    ensure: '0.19.2-4.fc17'
+  ftgl:
+    ensure: '2.1.3-0.5.rc5.fc17'
+  ftp:
+    ensure: '0.17-55.fc17'
+  fuse:
+    ensure: '2.8.7-1.fc17'
+  fuse-devel:
+    ensure: '2.8.7-1.fc17'
+  fuse-libs:
+    ensure: '2.8.7-1.fc17'
+  fxload:
+    ensure: '2002_04_11-11.fc17'
+  game-music-emu:
+    ensure: '0.5.5-2.fc17'
+  gamin:
+    ensure: '0.1.10-12.fc17'
+  gamin-python:
+    ensure: '0.1.10-12.fc17'
+  ganymed-ssh2:
+    ensure: '210-11.fc17'
+  gawk:
+    ensure: '4.0.1-1.fc17'
+  gc:
+    ensure: '7.2b-2.fc17'
+  gcc:
+    ensure: '4.7.0-5.fc17'
+  gcc-c++:
+    ensure: '4.7.0-5.fc17'
+  gcr:
+    ensure: '3.4.1-2.fc17'
+  gd:
+    ensure: '2.0.35-17.fc17'
+  gdata-java:
+    ensure: '1.45.0-3.fc17'
+  gdb:
+    ensure: '7.4.50.20120120-49.fc17'
+  gdbm:
+    ensure: '1.10-2.fc17'
+  gdisk:
+    ensure: '0.8.4-1.fc17'
+  gdk-pixbuf2:
+    ensure: '2.26.1-1.fc17'
+  genisoimage:
+    ensure: '1.1.11-12.fc17'
+  geronimo-annotation:
+    ensure: '1.0-7.fc17'
+  geronimo-ejb:
+    ensure: '1.0-6.fc17'
+  geronimo-interceptor:
+    ensure: '1.0.1-6.fc17'
+  geronimo-jaxrpc:
+    ensure: '2.1-6.fc17'
+  geronimo-jms:
+    ensure: '1.1.1-11.fc17'
+  geronimo-jpa:
+    ensure: '1.1.1-7.fc17'
+  geronimo-jta:
+    ensure: '1.1.1-9.fc17'
+  geronimo-osgi-support:
+    ensure: '1.0-6.fc17'
+  geronimo-parent-poms:
+    ensure: '1.6-7.fc17'
+  geronimo-saaj:
+    ensure: '1.1-6.fc17'
+  geronimo-validation:
+    ensure: '1.1-4.fc17'
+  gettext:
+    ensure: '0.18.1.1-14.fc17'
+  gettext-libs:
+    ensure: '0.18.1.1-14.fc17'
+  gfs2-utils:
+    ensure: '3.1.4-4.fc17'
+  ghostscript:
+    ensure: '9.05-1.fc17'
+  ghostscript-cups:
+    ensure: '9.05-1.fc17'
+  ghostscript-fonts:
+    ensure: '5.50-28.fc17'
+  giflib:
+    ensure: '4.1.6-5.fc17'
+  git:
+    ensure: '1.7.11.4-3.fc17'
+  glassfish-dtd-parser:
+    ensure: '1.2-0.3.20120120svn.fc17'
+  glassfish-fastinfoset:
+    ensure: '1.2.12-3.fc17'
+  glassfish-jaxb:
+    ensure: '2.2.5-2.fc17'
+  glassfish-jaxb-api:
+    ensure: '2.2.6-1.fc17'
+  glassfish-jsp:
+    ensure: '2.2.3-2.fc17'
+  glassfish-jsp-api:
+    ensure: '2.2.1-1.fc17'
+  glib:
+    ensure: '1.2.10-36.fc17'
+  glib-devel:
+    ensure: '1.2.10-36.fc17'
+  glib-networking:
+    ensure: '2.32.3-1.fc17'
+  glib2:
+    ensure: '2.32.4-1.fc17'
+  glib2-devel:
+    ensure: '2.32.4-1.fc17'
+  glibc:
+    ensure: '2.15-56.fc17'
+  glibc-common:
+    ensure: '2.15-56.fc17'
+  glibc-devel:
+    ensure: '2.15-56.fc17'
+  glibc-headers:
+    ensure: '2.15-56.fc17'
+  glibmm24:
+    ensure: '2.32.1-1.fc17'
+  glusterfs:
+    ensure: '3.2.7-1.fc17'
+  glusterfs-fuse:
+    ensure: '3.2.7-1.fc17'
+  glx-utils:
+    ensure: '7.10-6.20101028.fc17'
+  gmp:
+    ensure: '5.0.2-6.fc17'
+  gnome-disk-utility:
+    ensure: '3.4.1-1.fc17'
+  gnome-keyring:
+    ensure: '3.4.1-2.fc17'
+  gnome-python2:
+    ensure: '2.28.1-8.fc17'
+  gnome-python2-canvas:
+    ensure: '2.28.1-8.fc17'
+  gnome-python2-desktop:
+    ensure: '2.32.0-9.fc17'
+  gnome-python2-gconf:
+    ensure: '2.28.1-8.fc17'
+  gnome-python2-gnomekeyring:
+    ensure: '2.32.0-9.fc17'
+  gnupg:
+    ensure: '1.4.12-1.fc17'
+  gnupg2:
+    ensure: '2.0.18-3.fc17'
+  gnutls:
+    ensure: '2.12.17-1.fc17'
+  gnutls-utils:
+    ensure: '2.12.17-1.fc17'
+  gobject-introspection:
+    ensure: '1.32.1-1.fc17'
+  gocr:
+    ensure: '0.49-3.fc17'
+  goocanvas:
+    ensure: '1.0.0-3.fc17'
+  google-chrome-stable:
+    ensure: '21.0.1180.89-154005'
+  google-guice:
+    ensure: '3.0-0.6.rc2.fc17'
+  gperftools-libs:
+    ensure: '2.0-5.fc17'
+  gpg-pubkey:
+    ensure: '7fac5991-4615767f'
+  gpgme:
+    ensure: '1.3.0-8.fc17'
+  gpm-libs:
+    ensure: '1.20.6-22.fc17'
+  gpsd:
+    ensure: '3.5-1.fc17'
+  gpsd-libs:
+    ensure: '3.5-1.fc17'
+  grantlee:
+    ensure: '0.2.0-1.fc17'
+  graphite2:
+    ensure: '1.1.1-2.fc17'
+  grep:
+    ensure: '2.14-1.fc17'
+  groff:
+    ensure: '1.21-9.fc17'
+  groff-base:
+    ensure: '1.21-9.fc17'
+  groovy:
+    ensure: '1.8.7-1.fc17'
+  grub-efi:
+    ensure: '0.97-93.fc17'
+  grub2:
+    ensure: '2.0-0.38.beta6.fc17'
+  grub2-tools:
+    ensure: '2.0-0.38.beta6.fc17'
+  grubby:
+    ensure: '8.12-1.fc17'
+  gscan2pdf:
+    ensure: '1.0.6-1.fc17'
+  gsettings-desktop-schemas:
+    ensure: '3.4.2-1.fc17'
+  gsl:
+    ensure: '1.15-4.fc17'
+  gsm:
+    ensure: '1.0.13-6.fc17'
+  gstreamer:
+    ensure: '0.10.36-1.fc17'
+  gstreamer-plugins-bad-free:
+    ensure: '0.10.23-7.fc17'
+  gstreamer-plugins-base:
+    ensure: '0.10.36-2.fc17'
+  gstreamer-plugins-good:
+    ensure: '0.10.31-4.fc17'
+  gstreamer-plugins-ugly:
+    ensure: '0.10.19-1.fc17'
+  gstreamer-tools:
+    ensure: '0.10.36-1.fc17'
+  gtk-vnc:
+    ensure: '0.5.1-1.fc17'
+  gtk-vnc-python:
+    ensure: '0.5.1-1.fc17'
+  gtk-vnc2:
+    ensure: '0.5.1-1.fc17'
+  gtk2:
+    ensure: '2.24.11-1.fc17'
+  gtk3:
+    ensure: '3.4.4-1.fc17'
+  gtkglext-libs:
+    ensure: '1.2.0-18.fc17'
+  gtkimageview:
+    ensure: '1.6.4-5.fc17'
+  guava:
+    ensure: '11.0.2-1.fc17'
+  gutenprint:
+    ensure: '5.2.9-1.fc17'
+  gutenprint-cups:
+    ensure: '5.2.9-1.fc17'
+  gvnc:
+    ensure: '0.5.1-1.fc17'
+  gvnc-tools:
+    ensure: '0.5.1-1.fc17'
+  gwenview:
+    ensure: '4.8.5-1.fc17'
+  gwenview-libs:
+    ensure: '4.8.5-1.fc17'
+  gzip:
+    ensure: '1.4-6.fc17'
+  h2:
+    ensure: '1.2.147-6.fc17'
+  hail:
+    ensure: '0.8-0.7.gf9c5b967.fc17'
+  hamcrest:
+    ensure: '1.1-12.fc17'
+  hardlink:
+    ensure: '1.0-13.fc17'
+  hawtjni:
+    ensure: '1.5-3.fc17'
+  hdparm:
+    ensure: '9.39-1.fc17'
+  herqq:
+    ensure: '1.0.0-3.fc17'
+  hesiod:
+    ensure: '3.1.0-21.fc17'
+  hfsplus-tools:
+    ensure: '540.1.linux3-1.fc17'
+  hibernate-commons-annotations:
+    ensure: '4.0.1-1.fc17'
+  hibernate-jpa-2.0-api:
+    ensure: '1.0.1-6.fc17'
+  hibernate-validator:
+    ensure: '4.2.0-4.fc17'
+  hibernate3:
+    ensure: '3.6.10-6.fc17'
+  hibernate3-entitymanager:
+    ensure: '3.6.10-6.fc17'
+  hibernate3-infinispan:
+    ensure: '3.6.10-6.fc17'
+  hicolor-icon-theme:
+    ensure: '0.12-4.fc17'
+  hiera:
+    ensure: '1.1.0-1.fc17'
+  hivex:
+    ensure: '1.3.5-7.fc17'
+  hornetq:
+    ensure: '2.2.13-4.fc17'
+  hostname:
+    ensure: '3.10-1.fc17'
+  hsqldb:
+    ensure: '1.8.1.3-7.fc17'
+  htdig:
+    ensure: '3.2.0-0.13.b6.fc17'
+  httpcomponents-client:
+    ensure: '4.1.3-3.fc17'
+  httpcomponents-core:
+    ensure: '4.1.4-1.fc17'
+  httpcomponents-project:
+    ensure: '4.1.1-4.fc17'
+  httpd:
+    ensure: '2.2.22-4.fc17'
+  httpd-tools:
+    ensure: '2.2.22-4.fc17'
+  httpunit:
+    ensure: '1.7-7.fc17'
+  hugin-base:
+    ensure: '2011.4.0-5.fc17'
+  hunspell:
+    ensure: '1.3.2-5.fc17'
+  hunspell-en:
+    ensure: '0.20110318-2.fc17'
+  hwdata:
+    ensure: '0.234-2.fc17'
+  hyphen:
+    ensure: '2.8.3-1.fc17'
+  hyphen-en:
+    ensure: '2.8.3-1.fc17'
+  icoutils:
+    ensure: '0.29.1-6.fc17'
+  ifuse:
+    ensure: '1.1.2-1.fc17'
+  ilmbase:
+    ensure: '1.0.2-4.fc17'
+  imagefactory:
+    ensure: '1.1.1-1.fc17'
+  imagefactory-jeosconf-ec2-fedora:
+    ensure: '1.1.1-1.fc17'
+  imagefactory-jeosconf-ec2-rhel:
+    ensure: '1.1.1-1.fc17'
+  infinispan:
+    ensure: '5.1.2-1.fc17'
+  info:
+    ensure: '4.13a-16.fc17'
+  iniparser:
+    ensure: '3.1-1.fc17'
+  initscripts:
+    ensure: '9.37.1-1.fc17'
+  ipmitool:
+    ensure: '1.8.11-11.fc17'
+  iproute:
+    ensure: '3.3.0-2.fc17'
+  iptables:
+    ensure: '1.4.14-2.fc17'
+  iptstate:
+    ensure: '2.2.2-7.fc17'
+  iputils:
+    ensure: '20101006-14.fc17'
+  ipw2100-firmware:
+    ensure: '1.3-13.fc17'
+  ipw2200-firmware:
+    ensure: '3.1-6.fc17'
+  ipxe-roms-qemu:
+    ensure: '20120328-1.gitaac9718.fc17'
+  irda-utils:
+    ensure: '0.9.18-14.fc17'
+  ironjacamar:
+    ensure: '1.0.9-3.fc17'
+  irqbalance:
+    ensure: '1.0.3-4.fc17'
+  iscsi-initiator-utils:
+    ensure: '6.2.0.872-18.fc17'
+  iso-codes:
+    ensure: '3.34-1.fc17'
+  isomd5sum:
+    ensure: '1.0.9-1.fc17'
+  isorelax:
+    ensure: '0-0.7.release20050331.fc17'
+  istack-commons:
+    ensure: '2.6.1-2.fc17'
+  ivtv-firmware:
+    ensure: '20080701-22'
+  iw:
+    ensure: '3.3-1.fc17'
+  iwhd:
+    ensure: '1.5-1.fc17'
+  iwl100-firmware:
+    ensure: '39.31.5.1-9.fc17'
+  iwl1000-firmware:
+    ensure: '39.31.5.1-2.fc17'
+  iwl3945-firmware:
+    ensure: '15.32.2.9-9.fc17'
+  iwl4965-firmware:
+    ensure: '228.61.2.24-9.fc17'
+  iwl5000-firmware:
+    ensure: '8.83.5.1_1-9.fc17'
+  iwl5150-firmware:
+    ensure: '8.24.2.2-9.fc17'
+  iwl6000-firmware:
+    ensure: '9.221.4.1-9.fc17'
+  iwl6000g2a-firmware:
+    ensure: '17.168.5.3-9.fc17'
+  iwl6050-firmware:
+    ensure: '41.28.5.1-9.fc17'
+  jack-audio-connection-kit:
+    ensure: '1.9.8-9.fc17'
+  jackson:
+    ensure: '1.9.4-3.fc17'
+  jai-imageio-core:
+    ensure: '1.2-0.9.20100217cvs.fc17'
+  jakarta-commons-httpclient:
+    ensure: '3.1-7.fc17'
+  jakarta-oro:
+    ensure: '2.0.8-10.fc17'
+  jakarta-taglibs-standard:
+    ensure: '1.1.2-4.fc17'
+  jamonapi:
+    ensure: '2.73-5.fc17'
+  jandex:
+    ensure: '1.0.3-4.fc17'
+  jansi:
+    ensure: '1.6-3.fc17'
+  jansi-native:
+    ensure: '1.2-3.fc17'
+  jansson:
+    ensure: '2.1-2.fc17'
+  jasper-libs:
+    ensure: '1.900.1-19.fc17'
+  java-1.7.0-openjdk:
+    ensure: '1.7.0.6-2.3.fc17.2'
+  java-1.7.0-openjdk-devel:
+    ensure: '1.7.0.6-2.3.fc17.2'
+  java-service-wrapper:
+    ensure: '3.2.5-7.fc17'
+  java_cup:
+    ensure: '0.11a-8.fc17'
+  javamail:
+    ensure: '1.4.3-11.fc17'
+  javassist:
+    ensure: '3.15.0-2.fc17'
+  jaxen:
+    ensure: '1.1.3-3.fc17'
+  jbosgi-deployment:
+    ensure: '1.0.12-2.fc17'
+  jbosgi-framework:
+    ensure: '1.1.8-3.fc17'
+  jbosgi-metadata:
+    ensure: '2.0.3-2.fc17'
+  jbosgi-repository:
+    ensure: '1.0.5-4.fc17'
+  jbosgi-resolver:
+    ensure: '2.0.0-0.2.Beta2.fc17'
+  jbosgi-resolver1:
+    ensure: '1.0.13-3.fc17'
+  jbosgi-spi:
+    ensure: '3.0.1-1.fc17'
+  jbosgi-vfs:
+    ensure: '1.1.2-0.3.CR1.fc17'
+  jboss-annotations-1.1-api:
+    ensure: '1.0.1-0.1.20120212git76e1a2.fc17'
+  jboss-as:
+    ensure: '7.1.1-7.fc17'
+  jboss-classfilewriter:
+    ensure: '1.0.0-3.fc17'
+  jboss-common-core:
+    ensure: '2.2.18-5.fc17'
+  jboss-connector-1.6-api:
+    ensure: '1.0.1-0.1.20120310git9dc9a5.fc17'
+  jboss-dmr:
+    ensure: '1.1.1-4.fc17'
+  jboss-ejb-3.1-api:
+    ensure: '1.0.2-1.fc17'
+  jboss-ejb-client:
+    ensure: '1.0.5-1.fc17'
+  jboss-ejb3-ext-api:
+    ensure: '2.0.0-2.fc17'
+  jboss-el-2.2-api:
+    ensure: '1.0.1-0.2.20120212git2fabd8.fc17'
+  jboss-httpserver:
+    ensure: '1.0.0-1.fc17'
+  jboss-iiop-client:
+    ensure: '1.0.0-2.fc17'
+  jboss-interceptor:
+    ensure: '2.0.0-2.fc17'
+  jboss-interceptors-1.1-api:
+    ensure: '1.0.2-0.1.20120319git49a904.fc17'
+  jboss-invocation:
+    ensure: '1.1.1-2.fc17'
+  jboss-j2eemgmt-1.1-api:
+    ensure: '1.0.1-2.fc17'
+  jboss-jacc-1.4-api:
+    ensure: '1.0.2-1.fc17'
+  jboss-jad-1.2-api:
+    ensure: '1.0.1-1.fc17'
+  jboss-jaspi-1.0-api:
+    ensure: '1.0.1-1.fc17'
+  jboss-jaxb-2.2-api:
+    ensure: '1.0.4-1.fc17'
+  jboss-jaxb-intros:
+    ensure: '1.0.2-1.fc17'
+  jboss-jaxr-1.0-api:
+    ensure: '1.0.2-1.fc17'
+  jboss-jaxrpc-1.1-api:
+    ensure: '1.0.1-0.1.20120309gita3c227.fc17'
+  jboss-jaxrs-1.1-api:
+    ensure: '1.0.1-2.fc17'
+  jboss-jaxws-2.2-api:
+    ensure: '2.0.2-0.1.20120507gitd6937f.fc17'
+  jboss-jms-1.1-api:
+    ensure: '1.0.1-1.fc17'
+  jboss-jsf-2.1-api:
+    ensure: '2.0.2-3.fc17'
+  jboss-jsp-2.2-api:
+    ensure: '1.0.1-3.fc17'
+  jboss-jstl-1.2-api:
+    ensure: '1.0.3-2.fc17'
+  jboss-jts:
+    ensure: '4.16.2-6.fc17'
+  jboss-logging:
+    ensure: '3.1.0-2.fc17'
+  jboss-logging-tools:
+    ensure: '1.0.0-1.fc17'
+  jboss-logmanager:
+    ensure: '1.2.2-1.fc17'
+  jboss-logmanager-log4j:
+    ensure: '1.0.0-3.fc17'
+  jboss-marshalling:
+    ensure: '1.3.13-2.fc17'
+  jboss-metadata:
+    ensure: '7.0.1-1.fc17'
+  jboss-modules:
+    ensure: '1.1.1-3.fc17'
+  jboss-msc:
+    ensure: '1.0.2-1.fc17'
+  jboss-naming:
+    ensure: '5.0.6-0.2.CR1.fc17'
+  jboss-negotiation:
+    ensure: '2.2.0-3.SP1.fc17'
+  jboss-parent:
+    ensure: '6-7.fc17'
+  jboss-remote-naming:
+    ensure: '1.0.2-1.fc17'
+  jboss-remoting:
+    ensure: '3.2.4-1.fc17'
+  jboss-remoting-jmx:
+    ensure: '1.0.2-2.fc17'
+  jboss-rmi-1.0-api:
+    ensure: '1.0.4-1.fc17'
+  jboss-saaj-1.3-api:
+    ensure: '1.0.2-1.fc17'
+  jboss-sasl:
+    ensure: '1.0.0-2.fc17'
+  jboss-servlet-3.0-api:
+    ensure: '1.0.1-1.fc17'
+  jboss-stdio:
+    ensure: '1.0.1-3.fc17'
+  jboss-threads:
+    ensure: '2.0.0-4.fc17'
+  jboss-transaction-1.1-api:
+    ensure: '1.0.1-0.1.20120309git3970b8.fc17'
+  jboss-transaction-spi:
+    ensure: '7.0.0-2.fc17'
+  jboss-vfs:
+    ensure: '3.1.0-1.fc17'
+  jboss-web:
+    ensure: '7.0.13-4.fc17'
+  jboss-web-native:
+    ensure: '2.0.10-2.fc17'
+  jbossws-api:
+    ensure: '1.0.0-1.fc17'
+  jbossws-common:
+    ensure: '2.0.4-3.fc17'
+  jbossws-cxf:
+    ensure: '4.0.2-1.fc17'
+  jbossws-spi:
+    ensure: '2.0.3-2.fc17'
+  jcip-annotations:
+    ensure: '1-4.20060626.fc17'
+  jcommon:
+    ensure: '1.0.17-2.fc17'
+  jdepend:
+    ensure: '2.9.1-5.fc17'
+  jdom:
+    ensure: '1.1.3-1.fc17'
+  jettison:
+    ensure: '1.3.1-4.fc17'
+  jetty:
+    ensure: '8.1.2-10.fc17'
+  jetty-ajp:
+    ensure: '8.1.2-10.fc17'
+  jetty-annotations:
+    ensure: '8.1.2-10.fc17'
+  jetty-client:
+    ensure: '8.1.2-10.fc17'
+  jetty-continuation:
+    ensure: '8.1.2-10.fc17'
+  jetty-deploy:
+    ensure: '8.1.2-10.fc17'
+  jetty-http:
+    ensure: '8.1.2-10.fc17'
+  jetty-io:
+    ensure: '8.1.2-10.fc17'
+  jetty-jmx:
+    ensure: '8.1.2-10.fc17'
+  jetty-jndi:
+    ensure: '8.1.2-10.fc17'
+  jetty-overlay-deployer:
+    ensure: '8.1.2-10.fc17'
+  jetty-parent:
+    ensure: '19-3.fc17'
+  jetty-plus:
+    ensure: '8.1.2-10.fc17'
+  jetty-policy:
+    ensure: '8.1.2-10.fc17'
+  jetty-project:
+    ensure: '8.1.2-10.fc17'
+  jetty-rewrite:
+    ensure: '8.1.2-10.fc17'
+  jetty-security:
+    ensure: '8.1.2-10.fc17'
+  jetty-server:
+    ensure: '8.1.2-10.fc17'
+  jetty-servlet:
+    ensure: '8.1.2-10.fc17'
+  jetty-servlets:
+    ensure: '8.1.2-10.fc17'
+  jetty-util:
+    ensure: '8.1.2-10.fc17'
+  jetty-webapp:
+    ensure: '8.1.2-10.fc17'
+  jetty-websocket:
+    ensure: '8.1.2-10.fc17'
+  jetty-xml:
+    ensure: '8.1.2-10.fc17'
+  jfreechart:
+    ensure: '1.0.13-6.fc17'
+  jfsutils:
+    ensure: '1.1.13-9.fc17'
+  jgroups:
+    ensure: '3.0.6-1.fc17'
+  jing:
+    ensure: '20091111-10.fc17'
+  jline:
+    ensure: '1.0-1.fc17'
+  jna:
+    ensure: '3.4.0-4.fc17'
+  joda-time:
+    ensure: '1.6.2-7.tzdata2011f.fc17'
+  jomolhari-fonts:
+    ensure: '0.003-11.fc17'
+  jopt-simple:
+    ensure: '3.3-5.fc17'
+  jpackage-utils:
+    ensure: '1.7.5-18.1.fc17'
+  js:
+    ensure: '1.8.5-9.fc17'
+  jsch:
+    ensure: '0.1.46-2.fc17'
+  json-c:
+    ensure: '0.9-4.fc17'
+  jsoup:
+    ensure: '1.6.1-4.fc17'
+  jsr-305:
+    ensure: '0-0.9.20090319svn.fc17'
+  jsr-311:
+    ensure: '1.1.1-1.fc17'
+  jtidy:
+    ensure: '1.0-0.11.20100930svn1125.fc17'
+  jtype:
+    ensure: '0.1.2-2.fc17'
+  jul-to-slf4j-stub:
+    ensure: '1.0.0-1.fc17'
+  junit:
+    ensure: '4.10-5.fc17'
+  jvnet-parent:
+    ensure: '3-2.fc17'
+  jwhois:
+    ensure: '4.0-29.fc17'
+  jython:
+    ensure: '2.2.1-9.fc17'
+  jzlib:
+    ensure: '1.1.0-1.fc17'
+  k3b:
+    ensure: '2.0.2-6.fc17'
+  k3b-common:
+    ensure: '2.0.2-6.fc17'
+  k3b-extras-freeworld:
+    ensure: '2.0.2-6.fc17'
+  k3b-libs:
+    ensure: '2.0.2-6.fc17'
+  kactivities:
+    ensure: '4.8.5-1.fc17'
+  kamera:
+    ensure: '4.8.5-1.fc17'
+  kate-part:
+    ensure: '4.8.5-1.fc17'
+  kbd:
+    ensure: '1.15.3-5.fc17'
+  kbd-misc:
+    ensure: '1.15.3-5.fc17'
+  kcalc:
+    ensure: '4.8.5-1.fc17'
+  kcharselect:
+    ensure: '4.8.5-1.fc17'
+  kcm-gtk:
+    ensure: '0.5.3-10.fc17'
+  kcm_colors:
+    ensure: '4.8.5-2.fc17'
+  kcm_touchpad:
+    ensure: '0.3.1-7.fc17'
+  kcolorchooser:
+    ensure: '4.8.5-1.fc17'
+  kde-baseapps:
+    ensure: '4.8.5-1.fc17'
+  kde-baseapps-libs:
+    ensure: '4.8.5-1.fc17'
+  kde-filesystem:
+    ensure: '4-39.fc17'
+  kde-plasma-networkmanagement:
+    ensure: '0.9.0.4-1.fc17'
+  kde-plasma-networkmanagement-libs:
+    ensure: '0.9.0.4-1.fc17'
+  kde-plasma-networkmanagement-openvpn:
+    ensure: '0.9.0.4-1.fc17'
+  kde-plasma-networkmanagement-pptp:
+    ensure: '0.9.0.4-1.fc17'
+  kde-plasma-networkmanagement-vpnc:
+    ensure: '0.9.0.4-1.fc17'
+  kde-printer-applet:
+    ensure: '4.8.5-1.fc17'
+  kde-runtime:
+    ensure: '4.8.5-1.fc17'
+  kde-runtime-flags:
+    ensure: '4.8.5-1.fc17'
+  kde-runtime-libs:
+    ensure: '4.8.5-1.fc17'
+  kde-settings:
+    ensure: '4.8-18.fc17'
+  kde-settings-kdm:
+    ensure: '4.8-18.fc17'
+  kde-settings-ksplash:
+    ensure: '4.8-18.fc17'
+  kde-settings-plasma:
+    ensure: '4.8-18.fc17'
+  kde-settings-pulseaudio:
+    ensure: '4.8-18.fc17'
+  kde-wallpapers:
+    ensure: '4.8.5-1.fc17'
+  kde-workspace:
+    ensure: '4.8.5-2.fc17'
+  kde-workspace-libs:
+    ensure: '4.8.5-2.fc17'
+  kdegames-libs:
+    ensure: '4.8.5-1.fc17'
+  kdegames-minimal:
+    ensure: '4.8.5-1.fc17'
+  kdegraphics:
+    ensure: '4.8.5-1.fc17'
+  kdegraphics-libs:
+    ensure: '4.8.5-1.fc17'
+  kdegraphics-mobipocket:
+    ensure: '4.8.5-1.fc17'
+  kdegraphics-strigi-analyzer:
+    ensure: '4.8.5-1.fc17'
+  kdegraphics-thumbnailers:
+    ensure: '4.8.5-1.fc17'
+  kdelibs:
+    ensure: '4.8.5-1.fc17'
+  kdelibs-common:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-common:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-dragonplayer:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-juk:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-kio_audiocd:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-kmix:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-kscd:
+    ensure: '4.8.5-1.fc17'
+  kdemultimedia-libs:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-common:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-fileshare-samba:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-kdnssd:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-kget:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-kget-libs:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-kopete:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-kopete-libs:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-kppp:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-krdc:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-krdc-libs:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-krfb:
+    ensure: '4.8.5-1.fc17'
+  kdenetwork-krfb-libs:
+    ensure: '4.8.5-1.fc17'
+  kdepim:
+    ensure: '4.8.5-2.fc17'
+  kdepim-libs:
+    ensure: '4.8.5-2.fc17'
+  kdepim-runtime:
+    ensure: '4.8.5-1.fc17'
+  kdepim-runtime-libs:
+    ensure: '4.8.5-1.fc17'
+  kdepimlibs:
+    ensure: '4.8.5-1.fc17'
+  kdepimlibs-akonadi:
+    ensure: '4.8.5-1.fc17'
+  kdeplasma-addons:
+    ensure: '4.8.5-1.fc17'
+  kdeplasma-addons-libs:
+    ensure: '4.8.5-1.fc17'
+  kdeutils:
+    ensure: '4.8.5-1.fc17'
+  kdeutils-minimal:
+    ensure: '4.8.5-1.fc17'
+  kdf:
+    ensure: '4.8.5-1.fc17'
+  kdm:
+    ensure: '4.8.5-2.fc17'
+  kdm-themes:
+    ensure: '4.8.5-2.fc17'
+  kernel:
+    ensure: '3.5.2-3.fc17'
+  kernel-headers:
+    ensure: '3.5.2-3.fc17'
+  kernel-modules-extra:
+    ensure: '3.5.2-3.fc17'
+  kernel-tools:
+    ensure: '3.5.3-1.fc17'
+  keyutils:
+    ensure: '1.5.5-2.fc17'
+  keyutils-libs:
+    ensure: '1.5.5-2.fc17'
+  kfloppy:
+    ensure: '4.8.5-1.fc17'
+  kgamma:
+    ensure: '4.8.5-1.fc17'
+  kgpg:
+    ensure: '4.8.5-1.fc17'
+  kgreeter-plugins:
+    ensure: '4.8.5-2.fc17'
+  khmeros-base-fonts:
+    ensure: '5.0-12.fc17'
+  khmeros-fonts-common:
+    ensure: '5.0-12.fc17'
+  kio_msits:
+    ensure: '4.8.5-3.fc17'
+  kio_sysinfo:
+    ensure: '20090930-4.fc17'
+  kipi-plugins:
+    ensure: '2.8.0-1.fc17'
+  kipi-plugins-doc:
+    ensure: '2.8.0-1.fc17'
+  kipi-plugins-libs:
+    ensure: '2.8.0-1.fc17'
+  kmod:
+    ensure: '7-2.fc17'
+  kmod-libs:
+    ensure: '7-2.fc17'
+  kolourpaint:
+    ensure: '4.8.5-1.fc17'
+  kolourpaint-libs:
+    ensure: '4.8.5-1.fc17'
+  konsole:
+    ensure: '4.8.5-1.fc17'
+  konsole-part:
+    ensure: '4.8.5-1.fc17'
+  konversation:
+    ensure: '1.4-2.fc17'
+  kpartx:
+    ensure: '0.4.9-26.fc17'
+  kpathsea:
+    ensure: '2007-70.fc17'
+  krb5-libs:
+    ensure: '1.10.2-6.fc17'
+  krb5-workstation:
+    ensure: '1.10.2-6.fc17'
+  kremotecontrol:
+    ensure: '4.8.5-1.fc17'
+  kremotecontrol-libs:
+    ensure: '4.8.5-1.fc17'
+  kross-interpreters:
+    ensure: '4.8.5-1.fc17'
+  kross-python:
+    ensure: '4.8.5-1.fc17'
+  kruler:
+    ensure: '4.8.5-1.fc17'
+  krusader:
+    ensure: '2.4.0-0.4.beta1.fc17'
+  ksaneplugin:
+    ensure: '4.8.5-1.fc17'
+  ksnapshot:
+    ensure: '4.8.5-1.fc17'
+  ksshaskpass:
+    ensure: '0.5.3-3.fc17'
+  ksysguard-libs:
+    ensure: '4.8.5-2.fc17'
+  ksysguardd:
+    ensure: '4.8.5-2.fc17'
+  ktimer:
+    ensure: '4.8.5-1.fc17'
+  ktorrent:
+    ensure: '4.2.1-1.fc17'
+  ktorrent-libs:
+    ensure: '4.2.1-1.fc17'
+  kwallet:
+    ensure: '4.8.5-1.fc17'
+  kwebkitpart:
+    ensure: '1.2-0.3.20111030.fc17'
+  kwrite:
+    ensure: '4.8.5-1.fc17'
+  kxml:
+    ensure: '2.2.2-10.fc17'
+  lame-libs:
+    ensure: '3.99.5-1.fc17'
+  lcms-libs:
+    ensure: '1.19-5.fc17'
+  lcms2:
+    ensure: '2.3-2.fc17'
+  lensfun:
+    ensure: '0.2.5-8.fc17'
+  less:
+    ensure: '444-5.fc17'
+  lftp:
+    ensure: '4.3.8-1.fc17'
+  libEMF:
+    ensure: '1.0.4-4.fc17'
+  libGLEW:
+    ensure: '1.6.0-2.fc17'
+  libICE:
+    ensure: '1.0.8-1.fc17'
+  libIDL:
+    ensure: '0.8.14-4.fc17'
+  libSM:
+    ensure: '1.2.1-1.fc17'
+  libX11:
+    ensure: '1.5.0-2.fc17'
+  libX11-common:
+    ensure: '1.5.0-2.fc17'
+  libXScrnSaver:
+    ensure: '1.2.2-1.fc17'
+  libXau:
+    ensure: '1.0.6-3.fc17'
+  libXaw:
+    ensure: '1.0.9-3.fc17'
+  libXcomposite:
+    ensure: '0.4.3-3.fc17'
+  libXcursor:
+    ensure: '1.1.13-1.fc17'
+  libXdamage:
+    ensure: '1.1.3-3.fc17'
+  libXdmcp:
+    ensure: '1.1.1-1.fc17'
+  libXext:
+    ensure: '1.3.1-1.fc17'
+  libXfixes:
+    ensure: '5.0-2.fc17'
+  libXfont:
+    ensure: '1.4.5-1.fc17'
+  libXft:
+    ensure: '2.3.0-2.fc17'
+  libXi:
+    ensure: '1.6.1-1.fc17'
+  libXinerama:
+    ensure: '1.1.2-1.fc17'
+  libXmu:
+    ensure: '1.1.0-3.fc17'
+  libXpm:
+    ensure: '3.5.10-1.fc17'
+  libXrandr:
+    ensure: '1.3.1-3.fc17'
+  libXrender:
+    ensure: '0.9.7-1.fc17'
+  libXres:
+    ensure: '1.0.6-1.fc17'
+  libXt:
+    ensure: '1.1.2-2.fc17'
+  libXtst:
+    ensure: '1.2.0-3.fc17'
+  libXv:
+    ensure: '1.0.7-1.fc17'
+  libXvMC:
+    ensure: '1.0.7-1.fc17'
+  libXxf86dga:
+    ensure: '1.1.3-1.fc17'
+  libXxf86misc:
+    ensure: '1.0.3-3.fc17'
+  libXxf86vm:
+    ensure: '1.1.2-1.fc17'
+  libacl:
+    ensure: '2.2.51-5.fc17'
+  libaio:
+    ensure: '0.3.109-5.fc17'
+  libao:
+    ensure: '1.1.0-2.fc17'
+  libarchive:
+    ensure: '3.0.3-2.fc17'
+  libart_lgpl:
+    ensure: '2.3.21-3.fc17'
+  libass:
+    ensure: '0.10.0-2.fc17'
+  libassuan:
+    ensure: '2.0.1-2.fc17'
+  libasyncns:
+    ensure: '0.8-3.fc17'
+  libatasmart:
+    ensure: '0.18-2.fc17'
+  libattr:
+    ensure: '2.4.46-5.fc17'
+  libavc1394:
+    ensure: '0.5.3-11.fc17'
+  libblkid:
+    ensure: '2.21.2-2.fc17'
+  libbluedevil:
+    ensure: '1.9.2-1.fc17'
+  libbluray:
+    ensure: '0.2.2-1.fc17'
+  libbs2b:
+    ensure: '3.1.0-4.fc17'
+  libbsd:
+    ensure: '0.3.0-2.fc17'
+  libcaca:
+    ensure: '0.99-0.14.beta17.fc17'
+  libcacard:
+    ensure: '0.1.2-2.fc17'
+  libcanberra:
+    ensure: '0.28-6.fc17'
+  libcap:
+    ensure: '2.22-2.fc17'
+  libcap-ng:
+    ensure: '0.6.6-2.fc17'
+  libcddb:
+    ensure: '1.3.2-8.fc17'
+  libcdio:
+    ensure: '0.83-5.fc17'
+  libcgroup:
+    ensure: '0.38-1.fc17'
+  libcmis:
+    ensure: '0.1.0-2.fc17'
+  libcollection:
+    ensure: '0.6.1-8.fc17'
+  libcom_err:
+    ensure: '1.42.3-2.fc17'
+  libconfig:
+    ensure: '1.4.8-2.fc17'
+  libcroco:
+    ensure: '0.6.5-1.fc17'
+  libcurl:
+    ensure: '7.24.0-5.fc17'
+  libdaemon:
+    ensure: '0.14-3.fc17'
+  libdb:
+    ensure: '5.2.36-5.fc17'
+  libdb-utils:
+    ensure: '5.2.36-5.fc17'
+  libdc1394:
+    ensure: '2.1.4-2.fc17'
+  libdca:
+    ensure: '0.0.5-6.fc17'
+  libdhash:
+    ensure: '0.4.3-8.fc17'
+  libdiscid:
+    ensure: '0.2.2-6.fc17'
+  libdmtx:
+    ensure: '0.7.2-7.fc17'
+  libdmx:
+    ensure: '1.1.2-1.fc17'
+  libdrm:
+    ensure: '2.4.37-1.fc17'
+  libdv:
+    ensure: '1.0.0-13.fc17'
+  libdvbpsi:
+    ensure: '0.2.2-2.fc17'
+  libdvdnav:
+    ensure: '4.2.0-2.fc17'
+  libdvdread:
+    ensure: '4.2.0-2.fc17'
+  libebml:
+    ensure: '1.2.2-2.fc17'
+  libedit:
+    ensure: '3.0-6.20110802cvs.fc17'
+  liberation-fonts-common:
+    ensure: '1.07.2-6.fc17'
+  liberation-mono-fonts:
+    ensure: '1.07.2-6.fc17'
+  liberation-sans-fonts:
+    ensure: '1.07.2-6.fc17'
+  liberation-serif-fonts:
+    ensure: '1.07.2-6.fc17'
+  libertas-usb8388-firmware:
+    ensure: '5.110.22.p23-6.fc17'
+  libevent:
+    ensure: '2.0.18-1.fc17'
+  libexif:
+    ensure: '0.6.20-2.fc17'
+  libexttextcat:
+    ensure: '3.2.0-1.fc17'
+  libffado:
+    ensure: '2.1.0-0.9.20120325.svn2088.fc17'
+  libffi:
+    ensure: '3.0.10-2.fc17'
+  libfontenc:
+    ensure: '1.1.0-2.fc17'
+  libfprint:
+    ensure: '0.4.0-3.fc17'
+  libfreebob:
+    ensure: '1.0.11-11.fc17'
+  libgadu:
+    ensure: '1.11.0-2.fc17.1'
+  libgcc:
+    ensure: '4.7.0-5.fc17'
+  libgcrypt:
+    ensure: '1.5.0-3.fc17'
+  libgfortran:
+    ensure: '4.7.0-5.fc17'
+  libglade2:
+    ensure: '2.6.4-8.fc17'
+  libgnome-keyring:
+    ensure: '3.4.1-2.fc17'
+  libgnomecanvas:
+    ensure: '2.30.3-4.fc17'
+  libgomp:
+    ensure: '4.7.0-5.fc17'
+  libgpg-error:
+    ensure: '1.10-2.fc17'
+  libgphoto2:
+    ensure: '2.4.14-1.fc17'
+  libgpod:
+    ensure: '0.8.2-4.fc17'
+  libgsf:
+    ensure: '1.14.21-3.fc17'
+  libgssglue:
+    ensure: '0.4-0.fc17'
+  libgudev1:
+    ensure: '182-3.fc17'
+  libguestfs:
+    ensure: '1.18.6-3.fc17'
+  libgusb:
+    ensure: '0.1.3-2.fc17'
+  libhbaapi:
+    ensure: '2.2-14.fc17'
+  libhbalinux:
+    ensure: '1.0.13-3.fc17'
+  libical:
+    ensure: '0.48-2.fc17'
+  libicu:
+    ensure: '4.8.1.1-4.fc17'
+  libid3tag:
+    ensure: '0.15.1b-12.fc17'
+  libid3tag-devel:
+    ensure: '0.15.1b-12.fc17'
+  libidn:
+    ensure: '1.24-1.fc17'
+  libiec61883:
+    ensure: '1.2.0-7.fc17'
+  libieee1284:
+    ensure: '0.2.11-11.fc17'
+  libimobiledevice:
+    ensure: '1.1.4-1.fc17'
+  libini_config:
+    ensure: '0.6.2-8.fc17'
+  libiodbc:
+    ensure: '3.52.7-3.fc17'
+  libipa_hbac:
+    ensure: '1.8.4-14.fc17'
+  libjpeg-turbo:
+    ensure: '1.2.1-1.fc17'
+  libjpeg-turbo-utils:
+    ensure: '1.2.1-1.fc17'
+  libkate:
+    ensure: '0.3.8-5.fc17'
+  libkdcraw:
+    ensure: '4.8.5-1.fc17'
+  libkexiv2:
+    ensure: '4.8.5-1.fc17'
+  libkface:
+    ensure: '2.8.0-1.fc17'
+  libkgeomap:
+    ensure: '2.8.0-1.fc17'
+  libkipi:
+    ensure: '4.8.5-1.fc17'
+  libksane:
+    ensure: '4.8.5-1.fc17'
+  libktorrent:
+    ensure: '1.2.1-1.fc17'
+  libkvkontakte:
+    ensure: '2.8.0-1.fc17'
+  libkworkspace:
+    ensure: '4.8.5-2.fc17'
+  liblastfm:
+    ensure: '0.3.3-4.fc17'
+  libldb:
+    ensure: '1.1.6-1.fc17'
+  liblqr-1:
+    ensure: '0.4.1-3.fc17'
+  libmad:
+    ensure: '0.15.1b-15.fc17'
+  libmad-devel:
+    ensure: '0.15.1b-15.fc17'
+  libmatchbox:
+    ensure: '1.9-9.fc17'
+  libmatroska:
+    ensure: '1.3.0-2.fc17'
+  libmcpp:
+    ensure: '2.7.2-7.fc17'
+  libmediawiki:
+    ensure: '2.8.0-1.fc17'
+  libmicrohttpd:
+    ensure: '0.9.7-2.fc17'
+  libmng:
+    ensure: '1.0.10-6.fc17'
+  libmodman:
+    ensure: '2.0.1-4.fc17'
+  libmodplug:
+    ensure: '0.8.8.4-2.fc17'
+  libmongodb:
+    ensure: '2.0.6-2.fc17'
+  libmount:
+    ensure: '2.21.2-2.fc17'
+  libmp4v2:
+    ensure: '1.5.0.1-12.fc17'
+  libmpc:
+    ensure: '0.9-2.fc17.2'
+  libmpcdec:
+    ensure: '1.2.6-8.fc17'
+  libmpeg2:
+    ensure: '0.5.1-9.fc17'
+  libmpg123:
+    ensure: '1.13.8-1.fc17'
+  libmsn:
+    ensure: '4.2.1-3.fc17'
+  libmtp:
+    ensure: '1.1.4-1.fc17'
+  libmtp-devel:
+    ensure: '1.1.4-1.fc17'
+  libmusicbrainz:
+    ensure: '2.1.5-13.fc17'
+  libmusicbrainz3:
+    ensure: '3.0.3-4.fc17'
+  libmygpo-qt:
+    ensure: '1.0.5-3.fc17'
+  libnetfilter_conntrack:
+    ensure: '1.0.1-1.fc17'
+  libnfnetlink:
+    ensure: '1.0.0-4.fc17'
+  libnfsidmap:
+    ensure: '0.25-3.fc17'
+  libnl:
+    ensure: '1.1-15.fc17'
+  libnl3:
+    ensure: '3.2.7-1.fc17'
+  libnotify:
+    ensure: '0.7.5-1.fc17'
+  liboauth:
+    ensure: '0.9.6-1.fc17'
+  libofa:
+    ensure: '0.9.3-20.fc17'
+  libogg:
+    ensure: '1.3.0-1.fc17'
+  libotr:
+    ensure: '3.2.1-1.fc17'
+  libpano13:
+    ensure: '2.9.18-3.fc17'
+  libpath_utils:
+    ensure: '0.2.1-8.fc17'
+  libpcap:
+    ensure: '1.2.1-2.fc17'
+  libpciaccess:
+    ensure: '0.13.1-1.fc17'
+  libpgf:
+    ensure: '6.12.24-2.fc17'
+  libpipeline:
+    ensure: '1.2.0-2.fc17'
+  libplist:
+    ensure: '1.8-4.fc17'
+  libpng:
+    ensure: '1.5.10-1.fc17'
+  libpng-compat:
+    ensure: '1.5.10-1.fc17'
+  libprojectM:
+    ensure: '2.0.1-15.fc17'
+  libproxy:
+    ensure: '0.4.7-4.fc17'
+  libpst:
+    ensure: '0.6.55-2.fc17'
+  libpst-doc:
+    ensure: '0.6.55-2.fc17'
+  libpst-libs:
+    ensure: '0.6.55-2.fc17'
+  libpwquality:
+    ensure: '1.1.1-1.fc17'
+  libqalculate:
+    ensure: '0.9.7-4.fc17'
+  libquadmath:
+    ensure: '4.7.0-5.fc17'
+  libquicktime:
+    ensure: '1.2.4-1.fc17'
+  libqzeitgeist:
+    ensure: '0.8.0-6.fc17'
+  libraw1394:
+    ensure: '2.0.7-2.fc17'
+  libreadline-java:
+    ensure: '0.8.0-29.fc17'
+  libref_array:
+    ensure: '0.1.2-8.fc17'
+  librelp:
+    ensure: '1.0.0-3.fc17'
+  libreoffice-core:
+    ensure: '3.5.6.2-2.fc17'
+  libreoffice-langpack-en:
+    ensure: '3.5.6.2-2.fc17'
+  libreoffice-opensymbol-fonts:
+    ensure: '3.5.6.2-2.fc17'
+  libreoffice-ure:
+    ensure: '3.5.6.2-2.fc17'
+  libreoffice-writer:
+    ensure: '3.5.6.2-2.fc17'
+  libreport:
+    ensure: '2.0.13-2.fc17'
+  libreport-filesystem:
+    ensure: '2.0.13-2.fc17'
+  libreport-gtk:
+    ensure: '2.0.13-2.fc17'
+  libreport-newt:
+    ensure: '2.0.13-2.fc17'
+  libreport-plugin-bugzilla:
+    ensure: '2.0.13-2.fc17'
+  libreport-plugin-kerneloops:
+    ensure: '2.0.13-2.fc17'
+  libreport-plugin-logger:
+    ensure: '2.0.13-2.fc17'
+  libreport-plugin-reportuploader:
+    ensure: '2.0.13-2.fc17'
+  libreport-plugin-ureport:
+    ensure: '2.0.13-2.fc17'
+  libreport-python:
+    ensure: '2.0.13-2.fc17'
+  libreport-web:
+    ensure: '2.0.13-2.fc17'
+  librsvg2:
+    ensure: '2.36.1-1.fc17'
+  librtmp:
+    ensure: '2.4-0.2.20110811gitc58cfb3e.fc17'
+  libsamplerate:
+    ensure: '0.1.8-2.fc17'
+  libselinux:
+    ensure: '2.1.10-3.fc17'
+  libselinux-python:
+    ensure: '2.1.10-3.fc17'
+  libselinux-ruby:
+    ensure: '2.1.10-3.fc17'
+  libselinux-utils:
+    ensure: '2.1.10-3.fc17'
+  libsemanage:
+    ensure: '2.1.6-3.fc17'
+  libsemanage-python:
+    ensure: '2.1.6-3.fc17'
+  libsepol:
+    ensure: '2.1.7-3.fc17'
+  libshout:
+    ensure: '2.2.2-7.fc17'
+  libsidplay:
+    ensure: '1.36.60-5.fc17'
+  libsigc++20:
+    ensure: '2.2.10-2.fc17'
+  libsmbclient:
+    ensure: '3.6.6-92.fc17.1'
+  libsndfile:
+    ensure: '1.0.25-2.fc17'
+  libsoup:
+    ensure: '2.38.1-3.fc17'
+  libspectre:
+    ensure: '0.2.6-5.fc17'
+  libspnav:
+    ensure: '0.2.2-3.fc17'
+  libsrtp:
+    ensure: '1.4.4-4.20101004cvs.fc17'
+  libss:
+    ensure: '1.42.3-2.fc17'
+  libssh:
+    ensure: '0.5.2-1.fc17'
+  libssh2:
+    ensure: '1.4.1-2.fc17'
+  libsss_sudo:
+    ensure: '1.8.4-14.fc17'
+  libstdc++:
+    ensure: '4.7.0-5.fc17'
+  libstdc++-devel:
+    ensure: '4.7.0-5.fc17'
+  libsysfs:
+    ensure: '2.1.0-11.fc17'
+  libtalloc:
+    ensure: '2.0.7-4.fc17'
+  libtar:
+    ensure: '1.2.11-22.fc17'
+  libtasn1:
+    ensure: '2.12-1.fc17'
+  libtdb:
+    ensure: '1.2.10-15.fc17'
+  libtevent:
+    ensure: '0.9.16-1.fc17'
+  libthai:
+    ensure: '0.1.14-5.fc17'
+  libtheora:
+    ensure: '1.1.1-3.fc17'
+  libtidy:
+    ensure: '0.99.0-22.20091203.fc17'
+  libtiff:
+    ensure: '3.9.6-2.fc17'
+  libtiff-tools:
+    ensure: '3.9.6-2.fc17'
+  libtiger:
+    ensure: '0.3.4-3.fc17'
+  libtirpc:
+    ensure: '0.2.2-2.1.fc17'
+  libtool-ltdl:
+    ensure: '2.4.2-3.fc17'
+  libtunepimp:
+    ensure: '0.5.3-20.fc17'
+  libudev:
+    ensure: '182-3.fc17'
+  libudisks2:
+    ensure: '1.94.0-8.fc17'
+  libunistring:
+    ensure: '0.9.3-5.fc17'
+  libunwind:
+    ensure: '1.0.1-3.fc17'
+  libupnp:
+    ensure: '1.6.13-3.fc17'
+  libusal:
+    ensure: '1.1.11-12.fc17'
+  libusb:
+    ensure: '0.1.3-10.fc17'
+  libusb-devel:
+    ensure: '0.1.3-10.fc17'
+  libusb1:
+    ensure: '1.0.9-0.6.rc1.fc17'
+  libusb1-devel:
+    ensure: '1.0.9-0.6.rc1.fc17'
+  libusb1-devel-doc:
+    ensure: '1.0.9-0.6.rc1.fc17'
+  libuser:
+    ensure: '0.57.6-1.fc17'
+  libuser-python:
+    ensure: '0.57.6-1.fc17'
+  libutempter:
+    ensure: '1.1.5-6.fc17'
+  libuuid:
+    ensure: '2.21.2-2.fc17'
+  libv4l:
+    ensure: '0.8.8-2.fc17'
+  libva:
+    ensure: '1.0.15-2.fc17'
+  libvdpau:
+    ensure: '0.4.1-7.fc17'
+  libvirt:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-client:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-daemon:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-daemon-config-network:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-daemon-config-nwfilter:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-devel:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-docs:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-lock-sanlock:
+    ensure: '0.9.11.5-3.fc17'
+  libvirt-python:
+    ensure: '0.9.11.5-3.fc17'
+  libvisual:
+    ensure: '0.4.0-11.fc17'
+  libvncserver:
+    ensure: '0.9.8.2-4.fc17'
+  libvorbis:
+    ensure: '1.3.3-1.fc17'
+  libvpx:
+    ensure: '1.0.0-3.fc17'
+  libwbclient:
+    ensure: '3.6.6-92.fc17.1'
+  libwmf:
+    ensure: '0.2.8.4-32.fc17'
+  libwmf-lite:
+    ensure: '0.2.8.4-32.fc17'
+  libwpd:
+    ensure: '0.9.4-3.fc17'
+  libwpg:
+    ensure: '0.2.0-4.fc17'
+  libwps:
+    ensure: '0.2.4-3.fc17'
+  libwsman1:
+    ensure: '2.2.7-5.fc17'
+  libwvstreams:
+    ensure: '4.6.1-6.fc17'
+  libxcb:
+    ensure: '1.8.1-1.fc17'
+  libxkbfile:
+    ensure: '1.0.8-1.fc17'
+  libxml++:
+    ensure: '2.34.2-3.fc17'
+  libxml2:
+    ensure: '2.7.8-7.fc17'
+  libxml2-python:
+    ensure: '2.7.8-7.fc17'
+  libxslt:
+    ensure: '1.1.26-9.fc17'
+  libyaml:
+    ensure: '0.1.4-2.fc17'
+  libzeitgeist:
+    ensure: '0.3.18-1.fc17'
+  libzip:
+    ensure: '0.10.1-1.fc17'
+  libzrtpcpp:
+    ensure: '2.1.2-2.fc17'
+  lilypond-emmentaler-fonts:
+    ensure: '2.15.39-1.fc17'
+  lilypond-fonts-common:
+    ensure: '2.15.39-1.fc17'
+  links:
+    ensure: '2.2-13.fc15'
+  linux-atm:
+    ensure: '2.5.1-4.fc17'
+  linux-atm-libs:
+    ensure: '2.5.1-4.fc17'
+  linux-firmware:
+    ensure: '20120720-0.1.git7560108.fc17'
+  lirc-libs:
+    ensure: '0.9.0-8.fc17'
+  live555:
+    ensure: '0-0.37.2012.04.27.fc17'
+  liveusb-creator:
+    ensure: '3.11.7-1.fc17'
+  lklug-fonts:
+    ensure: '0.6-6.20090803cvs.fc17'
+  lldpad:
+    ensure: '0.9.44-1.fc17'
+  llvm-libs:
+    ensure: '3.0-13.fc17'
+  lm_sensors-libs:
+    ensure: '3.3.2-2.fc17'
+  lockdev:
+    ensure: '1.0.4-0.4.20111007git.fc17'
+  log4cpp:
+    ensure: '1.0-9.fc17'
+  log4j:
+    ensure: '1.2.17-2.fc17'
+  logrotate:
+    ensure: '3.8.1-3.fc17'
+  lohit-assamese-fonts:
+    ensure: '2.5.1-2.fc17'
+  lohit-bengali-fonts:
+    ensure: '2.5.1-1.fc17'
+  lohit-devanagari-fonts:
+    ensure: '2.5.1-3.fc17'
+  lohit-gujarati-fonts:
+    ensure: '2.5.1-2.fc17'
+  lohit-kannada-fonts:
+    ensure: '2.5.1-2.fc17'
+  lohit-oriya-fonts:
+    ensure: '2.5.1-1.fc17'
+  lohit-punjabi-fonts:
+    ensure: '2.5.1-2.fc17'
+  lohit-tamil-fonts:
+    ensure: '2.5.1-2.fc17'
+  lohit-telugu-fonts:
+    ensure: '2.5.1-2.fc17'
+  loudmouth:
+    ensure: '1.4.3-10.fc17'
+  lovelock-backgrounds-kde:
+    ensure: '14.91.1-2.fc17'
+  lovelock-backgrounds-single:
+    ensure: '14.91.1-2.fc17'
+  lovelock-kde-theme:
+    ensure: '14.91.0-3.fc17'
+  lrzsz:
+    ensure: '0.12.20-30.fc17'
+  lsof:
+    ensure: '4.85-2.fc17'
+  lua:
+    ensure: '5.1.4-10.fc17'
+  lucene:
+    ensure: '2.9.4-8.fc17'
+  lucene-contrib:
+    ensure: '2.9.4-8.fc17'
+  lvm2:
+    ensure: '2.02.95-6.fc17'
+  lvm2-libs:
+    ensure: '2.02.95-6.fc17'
+  lx:
+    ensure: '20030328-7.fc17'
+  lyx:
+    ensure: '2.0.4-1.fc17'
+  lyx-common:
+    ensure: '2.0.4-1.fc17'
+  lyx-fonts:
+    ensure: '2.0.4-1.fc17'
+  lzo:
+    ensure: '2.06-2.fc17'
+  lzo-minilzo:
+    ensure: '2.06-2.fc17'
+  lzop:
+    ensure: '1.03-4.fc17'
+  m2crypto:
+    ensure: '0.21.1-8.fc17'
+  m4:
+    ensure: '1.4.16-3.fc17'
+  mactel-boot:
+    ensure: '0.9-6.fc17'
+  mailcap:
+    ensure: '2.1.39-1.fc17'
+  mailx:
+    ensure: '12.5-5.fc17'
+  make:
+    ensure: '3.82-9.fc17'
+  makebootfat:
+    ensure: '1.4-13.fc17'
+  man-db:
+    ensure: '2.6.0.2-8.fc17'
+  man-pages:
+    ensure: '3.35-2.fc17'
+  marble:
+    ensure: '4.8.5-1.fc17'
+  marble-libs:
+    ensure: '4.8.5-1.fc17'
+  matchbox-window-manager:
+    ensure: '1.2-9.20070628svn.fc17'
+  maven:
+    ensure: '3.0.4-10.fc17'
+  maven-antrun-plugin:
+    ensure: '1.7-2.fc17'
+  maven-archiver:
+    ensure: '2.5-2.fc17'
+  maven-artifact-manager:
+    ensure: '2.2.1-33.fc17'
+  maven-assembly-plugin:
+    ensure: '2.3-1.fc17'
+  maven-clean-plugin:
+    ensure: '2.4.1-5.fc17'
+  maven-compiler-plugin:
+    ensure: '2.3.2-5.fc17'
+  maven-deploy-plugin:
+    ensure: '2.7-2.fc17'
+  maven-doxia:
+    ensure: '1.2-3.fc17'
+  maven-doxia-sitetools:
+    ensure: '1.2-3.fc17'
+  maven-doxia-tools:
+    ensure: '1.4-4.fc17'
+  maven-filtering:
+    ensure: '1.0-5.fc17'
+  maven-gpg-plugin:
+    ensure: '1.4-2.fc17'
+  maven-idea-plugin:
+    ensure: '2.2-7.fc17'
+  maven-install-plugin:
+    ensure: '2.3.1-5.fc17'
+  maven-jar-plugin:
+    ensure: '2.3.2-2.fc17'
+  maven-javadoc-plugin:
+    ensure: '2.8.1-1.fc17'
+  maven-jxr:
+    ensure: '2.3-2.fc17'
+  maven-model:
+    ensure: '2.2.1-33.fc17'
+  maven-monitor:
+    ensure: '2.2.1-33.fc17'
+  maven-parent:
+    ensure: '20-2.fc17'
+  maven-plugin-build-helper:
+    ensure: '1.5-5.fc17'
+  maven-plugin-bundle:
+    ensure: '2.3.7-1.fc17'
+  maven-plugin-jxr:
+    ensure: '2.3-2.fc17'
+  maven-plugin-plugin:
+    ensure: '2.7-4.fc17'
+  maven-plugin-registry:
+    ensure: '2.2.1-33.fc17'
+  maven-plugin-testing:
+    ensure: '2.0-3.alpha1.fc17'
+  maven-plugin-testing-harness:
+    ensure: '2.0-3.alpha1.fc17'
+  maven-plugin-tools:
+    ensure: '2.7-4.fc17'
+  maven-plugin-tools-api:
+    ensure: '2.7-4.fc17'
+  maven-plugin-tools-beanshell:
+    ensure: '2.7-4.fc17'
+  maven-plugin-tools-java:
+    ensure: '2.7-4.fc17'
+  maven-plugin-tools-model:
+    ensure: '2.7-4.fc17'
+  maven-pmd-plugin:
+    ensure: '2.7.1-2.fc17'
+  maven-profile:
+    ensure: '2.2.1-33.fc17'
+  maven-project:
+    ensure: '2.2.1-33.fc17'
+  maven-project-info-reports-plugin:
+    ensure: '2.4-6.fc17'
+  maven-release:
+    ensure: '2.2.1-2.fc17'
+  maven-release-manager:
+    ensure: '2.2.1-2.fc17'
+  maven-release-plugin:
+    ensure: '2.2.1-2.fc17'
+  maven-reporting-exec:
+    ensure: '1.0.2-1.fc17'
+  maven-resources-plugin:
+    ensure: '2.5-5.fc17'
+  maven-scm:
+    ensure: '1.7-1.fc17'
+  maven-shared:
+    ensure: '15-23.fc17'
+  maven-shared-common-artifact-filters:
+    ensure: '1.3-23.fc17'
+  maven-shared-dependency-tree:
+    ensure: '1.3-23.fc17'
+  maven-shared-file-management:
+    ensure: '1.2.2-23.fc17'
+  maven-shared-invoker:
+    ensure: '2.0.12-23.fc17'
+  maven-shared-io:
+    ensure: '1.2-23.fc17'
+  maven-shared-jar:
+    ensure: '1.1-23.fc17'
+  maven-shared-monitor:
+    ensure: '1.0-23.fc17'
+  maven-shared-osgi:
+    ensure: '0.3.0-23.fc17'
+  maven-shared-reporting-api:
+    ensure: '3.0-23.fc17'
+  maven-shared-reporting-impl:
+    ensure: '2.1-23.fc17'
+  maven-shared-repository-builder:
+    ensure: '1.0-23.fc17'
+  maven-site-plugin:
+    ensure: '3.0-5.fc17'
+  maven-source-plugin:
+    ensure: '2.1.2-7.fc17'
+  maven-surefire:
+    ensure: '2.10-5.fc17'
+  maven-surefire-plugin:
+    ensure: '2.10-5.fc17'
+  maven-surefire-provider-junit:
+    ensure: '2.10-5.fc17'
+  maven-surefire-report-plugin:
+    ensure: '2.10-5.fc17'
+  maven-test-tools:
+    ensure: '2.0-3.alpha1.fc17'
+  maven-toolchain:
+    ensure: '2.2.1-33.fc17'
+  maven-wagon:
+    ensure: '1.0-4.fc17'
+  maven2-common-poms:
+    ensure: '1.0-46.fc17'
+  mcelog:
+    ensure: '1.0-0.4.6e4e2a00.fc17'
+  mchange-commons:
+    ensure: '0.2-0.5.20110130hg.fc17'
+  mcpp:
+    ensure: '2.7.2-7.fc17'
+  mdadm:
+    ensure: '3.2.5-4.fc17'
+  meanwhile:
+    ensure: '1.1.0-6.fc17'
+  media-player-info:
+    ensure: '16-1.fc17'
+  memtest86+:
+    ensure: '4.20-6.fc17'
+  mesa-dri-drivers:
+    ensure: '8.0.3-3.fc17'
+  mesa-dri-filesystem:
+    ensure: '8.0.3-3.fc17'
+  mesa-libGL:
+    ensure: '8.0.3-3.fc17'
+  mesa-libGLU:
+    ensure: '8.0.3-3.fc17'
+  mesa-libglapi:
+    ensure: '8.0.3-3.fc17'
+  mesa-libxatracker:
+    ensure: '8.0.3-3.fc17'
+  microcode_ctl:
+    ensure: '1.17-25.fc17'
+  min12xxw:
+    ensure: '0.0.9-7.fc17'
+  mingetty:
+    ensure: '1.08-10.fc17'
+  minicom:
+    ensure: '2.5-8.fc17'
+  minizip:
+    ensure: '1.2.5-7.fc17'
+  mjpegtools-libs:
+    ensure: '2.0.0-4.fc17'
+  mlocate:
+    ensure: '0.25-1.fc17'
+  mobile-broadband-provider-info:
+    ensure: '1.20120614-1.fc17'
+  mod_cluster-java:
+    ensure: '1.2.1-2.fc17'
+  mod_python:
+    ensure: '3.3.1-17.fc17'
+  mod_ssl:
+    ensure: '2.2.22-4.fc17'
+  mod_wsgi:
+    ensure: '3.3-2.fc17'
+  modello:
+    ensure: '1.5-2.fc17'
+  mojarra:
+    ensure: '2.1.7-2.fc17'
+  mojo-parent:
+    ensure: '29-2.fc17'
+  mojo-signatures:
+    ensure: '1.1-0.6.svn11457.fc17'
+  mongodb:
+    ensure: '2.0.6-2.fc17'
+  mongodb-server:
+    ensure: '2.0.6-2.fc17'
+  mozilla-filesystem:
+    ensure: '1.9-7.fc17'
+  mpfr:
+    ensure: '3.1.0-2.fc17'
+  mplayer:
+    ensure: '1.0-0.140.20120205svn.fc17'
+  mplayer-common:
+    ensure: '1.0-0.140.20120205svn.fc17'
+  msv-msv:
+    ensure: '2009.1-11.fc17'
+  msv-xsdlib:
+    ensure: '2009.1-11.fc17'
+  mtdev:
+    ensure: '1.1.0-3.20110105.fc17'
+  mtools:
+    ensure: '4.0.17-2.fc17'
+  mtr:
+    ensure: '0.82-2.fc17'
+  mutt:
+    ensure: '1.5.21-12.fc17'
+  mysql:
+    ensure: '5.5.27-1.fc17'
+  mysql-connector-java:
+    ensure: '5.1.21-2.fc17'
+  mysql-embedded:
+    ensure: '5.5.27-1.fc17'
+  mysql-libs:
+    ensure: '5.5.27-1.fc17'
+  mysql-server:
+    ensure: '5.5.27-1.fc17'
+  mythes:
+    ensure: '1.2.2-2.fc17'
+  mythes-en:
+    ensure: '3.0-9.fc17'
+  nano:
+    ensure: '2.3.1-3.fc17'
+  nc:
+    ensure: '1.109.20120711-1.fc17'
+  ncurses:
+    ensure: '5.9-4.20120204.fc17'
+  ncurses-base:
+    ensure: '5.9-4.20120204.fc17'
+  ncurses-libs:
+    ensure: '5.9-4.20120204.fc17'
+  neethi:
+    ensure: '3.0.1-1.fc17'
+  nekohtml:
+    ensure: '1.9.14-7.fc17'
+  neon:
+    ensure: '0.29.6-2.fc17'
+  net-snmp-libs:
+    ensure: '5.7.1-4.fc17'
+  net-snmp-utils:
+    ensure: '5.7.1-4.fc17'
+  net-tools:
+    ensure: '1.60-138.20120702git.fc17'
+  netcf-libs:
+    ensure: '0.1.9-2.fc17'
+  netpbm:
+    ensure: '10.58.03-1.fc17'
+  netpbm-progs:
+    ensure: '10.58.03-1.fc17'
+  netty:
+    ensure: '3.2.4-3.fc17'
+  netxen-firmware:
+    ensure: '4.0.534-5.fc17'
+  newt:
+    ensure: '0.52.14-2.fc17'
+  newt-python:
+    ensure: '0.52.14-2.fc17'
+  nfs-utils:
+    ensure: '1.2.6-3.fc17'
+  nilfs-utils:
+    ensure: '2.1.1-1.fc17'
+  nmap:
+    ensure: '6.01-1.fc17'
+  nmap-frontend:
+    ensure: '6.01-1.fc17'
+  notify-python:
+    ensure: '0.1.1-20.fc17'
+  nspr:
+    ensure: '4.9.1-2.fc17'
+  nss:
+    ensure: '3.13.5-1.fc17'
+  nss-myhostname:
+    ensure: '0.3-2.fc17'
+  nss-softokn:
+    ensure: '3.13.5-1.fc17'
+  nss-softokn-freebl:
+    ensure: '3.13.5-1.fc17'
+  nss-sysinit:
+    ensure: '3.13.5-1.fc17'
+  nss-tools:
+    ensure: '3.13.5-1.fc17'
+  nss-util:
+    ensure: '3.13.5-1.fc17'
+  nss_compat_ossl:
+    ensure: '0.9.6-3.fc17'
+  ntfs-3g:
+    ensure: '2012.1.15-1.fc17'
+  ntfsprogs:
+    ensure: '2012.1.15-1.fc17'
+  ntp:
+    ensure: '4.2.6p5-2.fc17'
+  ntpdate:
+    ensure: '4.2.6p5-2.fc17'
+  ntsysv:
+    ensure: '1.3.59-1.fc17'
+  numactl:
+    ensure: '2.0.7-6.fc17'
+  numactl-libs:
+    ensure: '2.0.7-6.fc17'
+  numad:
+    ensure: '0.5-4.20120522git.fc17'
+  numpy:
+    ensure: '1.6.2-1.fc17'
+  obex-data-server:
+    ensure: '0.4.6-3.fc17'
+  obexd:
+    ensure: '0.44-1.fc17'
+  objectweb-asm:
+    ensure: '3.3.1-3.fc17'
+  okular:
+    ensure: '4.8.5-3.fc17'
+  okular-libs:
+    ensure: '4.8.5-3.fc17'
+  okular-part:
+    ensure: '4.8.5-3.fc17'
+  openal-soft:
+    ensure: '1.14-2.fc17'
+  opencore-amr:
+    ensure: '0.1.3-2.fc17'
+  opencv:
+    ensure: '2.3.1-8.fc17'
+  openjpa:
+    ensure: '2.2.0-2.fc17'
+  openjpeg-libs:
+    ensure: '1.4-13.fc17'
+  openldap:
+    ensure: '2.4.32-2.fc17'
+  openni:
+    ensure: '1.3.2.1-3.fc17'
+  openobex:
+    ensure: '1.5-4.fc17'
+  openslp:
+    ensure: '1.2.1-16.fc17'
+  openssh:
+    ensure: '5.9p1-26.fc17'
+  openssh-clients:
+    ensure: '5.9p1-26.fc17'
+  openssh-server:
+    ensure: '5.9p1-26.fc17'
+  openssl:
+    ensure: '1.0.0j-2.fc17'
+  openvpn:
+    ensure: '2.2.2-4.fc17'
+  orc:
+    ensure: '0.4.16-5.fc17'
+  ortp:
+    ensure: '0.20.0-2.fc17'
+  os-prober:
+    ensure: '1.53-3.fc17'
+  ovirt-engine:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-backend:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-config:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-dbscripts:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-genericapi:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-notification-service:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-restapi:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-sdk:
+    ensure: '3.1.0.4-1.fc17'
+  ovirt-engine-setup:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-setup-plugin-allinone:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-tools-common:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-userportal:
+    ensure: '3.1.0-2.fc17'
+  ovirt-engine-webadmin-portal:
+    ensure: '3.1.0-2.fc17'
+  ovirt-image-uploader:
+    ensure: '3.1.0-0.git9c42c8.fc17'
+  ovirt-iso-uploader:
+    ensure: '3.1.0-0.git1841d9.fc17'
+  ovirt-log-collector:
+    ensure: '3.1.0-0.git10d719.fc17'
+  ovirt-release-fedora:
+    ensure: '4-2'
+  oxygen-gtk:
+    ensure: '1.2.0-2.fc17'
+  oxygen-gtk2:
+    ensure: '1.3.0-1.fc17'
+  oxygen-gtk3:
+    ensure: '1.1.0-1.fc17'
+  oxygen-icon-theme:
+    ensure: '4.8.5-1.fc17'
+  oz:
+    ensure: '0.9.0-1.fc17'
+  p11-kit:
+    ensure: '0.12-1.fc17'
+  p7zip:
+    ensure: '9.20.1-3.fc17'
+  p7zip-plugins:
+    ensure: '9.20.1-3.fc17'
+  pakchois:
+    ensure: '0.4-5'
+  paktype-naqsh-fonts:
+    ensure: '3.0-6.fc17'
+  paktype-tehreer-fonts:
+    ensure: '2.0-12.fc17'
+  pam:
+    ensure: '1.1.5-7.fc17'
+  pam_krb5:
+    ensure: '2.3.14-1.fc17'
+  pam_pkcs11:
+    ensure: '0.6.2-8.fc17'
+  pango:
+    ensure: '1.30.0-1.fc17'
+  paps:
+    ensure: '0.6.8-18.fc17'
+  paps-libs:
+    ensure: '0.6.8-18.fc17'
+  paranamer:
+    ensure: '2.4.1-1.fc17'
+  parted:
+    ensure: '3.0-10.fc17'
+  passwd:
+    ensure: '0.78.99-1.fc17'
+  passwdqc:
+    ensure: '1.2.2-3.fc17'
+  passwdqc-lib:
+    ensure: '1.2.2-3.fc17'
+  patch:
+    ensure: '2.6.1-12.fc17'
+  pax:
+    ensure: '3.4-13.fc17'
+  pbm2l2030:
+    ensure: '1.4-7.fc17'
+  pbm2l7k:
+    ensure: '990321-9.fc17'
+  pciutils:
+    ensure: '3.1.9-1.fc17'
+  pciutils-libs:
+    ensure: '3.1.9-1.fc17'
+  pcmciautils:
+    ensure: '018-2.fc17'
+  pcre:
+    ensure: '8.21-5.fc17'
+  pcsc-lite-libs:
+    ensure: '1.8.3-1.fc17'
+  perf:
+    ensure: '3.5.3-1.fc17'
+  perl:
+    ensure: '5.14.2-212.fc17'
+  perl-Acme-Damn:
+    ensure: '0.04-8.fc17'
+  perl-Algorithm-Diff:
+    ensure: '1.1902-14.fc17'
+  perl-AnyEvent:
+    ensure: '5.27-7.fc17'
+  perl-AnyEvent-AIO:
+    ensure: '1.1-8.fc17'
+  perl-AnyEvent-BDB:
+    ensure: '1.1-7.fc17'
+  perl-App-cpanminus:
+    ensure: '1.5007-2.fc17'
+  perl-AppConfig:
+    ensure: '1.66-15.fc17'
+  perl-Archive-Tar:
+    ensure: '1.82-2.fc17'
+  perl-Async-MergePoint:
+    ensure: '0.03-7.fc17'
+  perl-AutoXS-Header:
+    ensure: '1.02-8.fc17'
+  perl-BDB:
+    ensure: '1.88-5.fc17'
+  perl-CGI:
+    ensure: '3.52-212.fc17'
+  perl-CPAN:
+    ensure: '1.9600.01-212.fc17'
+  perl-CPAN-Meta:
+    ensure: '2.120921-1.fc17'
+  perl-CPAN-Meta-Requirements:
+    ensure: '2.121-3.fc17'
+  perl-CPAN-Meta-YAML:
+    ensure: '0.008-1.fc17'
+  perl-Cairo:
+    ensure: '1.090-1.fc17'
+  perl-Capture-Tiny:
+    ensure: '0.18-1.fc17'
+  perl-Carp:
+    ensure: '1.22-2.fc17'
+  perl-Class-Adapter:
+    ensure: '1.08-3.fc17'
+  perl-Class-ISA:
+    ensure: '0.36-1007.fc17'
+  perl-Class-Inspector:
+    ensure: '1.27-1.fc17'
+  perl-Class-Load:
+    ensure: '0.19-1.fc17'
+  perl-Class-MethodMaker:
+    ensure: '2.18-4.fc17'
+  perl-Class-Singleton:
+    ensure: '1.4-11.fc17'
+  perl-Class-Unload:
+    ensure: '0.07-4.fc17'
+  perl-Class-XSAccessor:
+    ensure: '1.13-2.fc17'
+  perl-Clone:
+    ensure: '0.31-9.fc17'
+  perl-Compress-Raw-Bzip2:
+    ensure: '2.052-1.fc17'
+  perl-Compress-Raw-Zlib:
+    ensure: '2.052-1.fc17'
+  perl-Config-General:
+    ensure: '2.50-6.fc17'
+  perl-Coro:
+    ensure: '6.07-3.fc17'
+  perl-Crypt-GeneratePassword:
+    ensure: '0.03-22.fc17'
+  perl-Crypt-SSLeay:
+    ensure: '0.58-8.fc17'
+  perl-Curses:
+    ensure: '1.28-5.fc17'
+  perl-DBD-CSV:
+    ensure: '0.33-2.fc17'
+  perl-DBD-MySQL:
+    ensure: '4.020-2.fc17'
+  perl-DBD-SQLite:
+    ensure: '1.35-2.fc17'
+  perl-DBI:
+    ensure: '1.617-1.fc17'
+  perl-Data-OptList:
+    ensure: '0.107-5.fc17'
+  perl-Date-Manip:
+    ensure: '6.30-1.fc17'
+  perl-DateTime:
+    ensure: '0.70-3.fc17'
+  perl-DateTime-Locale:
+    ensure: '0.45-2.fc17'
+  perl-DateTime-TimeZone:
+    ensure: '1.48-1.fc17'
+  perl-Debug-Client:
+    ensure: '0.16-1.fc17'
+  perl-Devel-Dumpvar:
+    ensure: '1.06-5.fc17'
+  perl-Devel-Refactor:
+    ensure: '0.05-8.fc17'
+  perl-Digest:
+    ensure: '1.17-2.fc17'
+  perl-Digest-MD5:
+    ensure: '2.51-212.fc17'
+  perl-Digest-SHA:
+    ensure: '5.61-212.fc17'
+  perl-EV:
+    ensure: '4.03-8.fc17'
+  perl-Email-Date-Format:
+    ensure: '1.002-11.fc17'
+  perl-Encode-Locale:
+    ensure: '1.02-5.fc17'
+  perl-Error:
+    ensure: '0.17016-7.fc17'
+  perl-Event:
+    ensure: '1.20-1.fc17'
+  perl-Event-Lib:
+    ensure: '1.03-16.fc17'
+  perl-ExtUtils-CBuilder:
+    ensure: '0.28.2.3-212.fc17'
+  perl-ExtUtils-Install:
+    ensure: '1.56-212.fc17'
+  perl-ExtUtils-MakeMaker:
+    ensure: '6.62-2.fc17'
+  perl-ExtUtils-Manifest:
+    ensure: '1.60-1.fc17'
+  perl-ExtUtils-ParseXS:
+    ensure: '2.2210-212.fc17'
+  perl-FCGI:
+    ensure: '0.74-2.fc17'
+  perl-File-Copy-Recursive:
+    ensure: '0.38-10.fc17'
+  perl-File-Find-Rule:
+    ensure: '0.33-2.fc17'
+  perl-File-HomeDir:
+    ensure: '0.99-1.fc17'
+  perl-File-Listing:
+    ensure: '6.03-2.fc17'
+  perl-File-Remove:
+    ensure: '1.52-1.fc17'
+  perl-File-ShareDir:
+    ensure: '1.03-4.fc17'
+  perl-File-Which:
+    ensure: '1.09-7.fc17'
+  perl-File-pushd:
+    ensure: '1.002-2.fc17'
+  perl-Font-TTF:
+    ensure: '0.48-3.fc17'
+  perl-Format-Human-Bytes:
+    ensure: '0.06-5.fc17'
+  perl-Git:
+    ensure: '1.7.11.4-3.fc17'
+  perl-Glib:
+    ensure: '1.241-2.fc17'
+  perl-Goo-Canvas:
+    ensure: '0.06-15.fc17'
+  perl-Graph-Easy:
+    ensure: '0.71-1.fc17'
+  perl-Gtk2:
+    ensure: '1.241-2.fc17'
+  perl-Gtk2-Ex-PodViewer:
+    ensure: '0.18-9.fc17'
+  perl-Gtk2-Ex-Simple-List:
+    ensure: '0.50-13.fc17'
+  perl-Gtk2-ImageView:
+    ensure: '0.04-12.fc17'
+  perl-Guard:
+    ensure: '1.022-1.fc17'
+  perl-HTML-Parser:
+    ensure: '3.69-3.fc17'
+  perl-HTML-Tagset:
+    ensure: '3.20-10.fc17'
+  perl-HTML-Tree:
+    ensure: '4.2-4.fc17'
+  perl-HTTP-Cookies:
+    ensure: '6.00-4.fc17'
+  perl-HTTP-Daemon:
+    ensure: '6.00-4.fc17'
+  perl-HTTP-Date:
+    ensure: '6.00-3.fc17'
+  perl-HTTP-Message:
+    ensure: '6.03-1.fc17'
+  perl-HTTP-Negotiate:
+    ensure: '6.00-4.fc17'
+  perl-HTTP-Tiny:
+    ensure: '0.012-212.fc17'
+  perl-Heap:
+    ensure: '0.80-10.fc17'
+  perl-IO-AIO:
+    ensure: '4.15-1.fc17'
+  perl-IO-Async:
+    ensure: '0.29-7.fc17'
+  perl-IO-Compress:
+    ensure: '2.052-1.fc17'
+  perl-IO-Socket-SSL:
+    ensure: '1.66-1.fc17'
+  perl-IO-String:
+    ensure: '1.08-14.fc17'
+  perl-IO-Tty:
+    ensure: '1.10-5.fc17'
+  perl-IO-Zlib:
+    ensure: '1.10-212.fc17'
+  perl-IO-stringy:
+    ensure: '2.110-18.fc17'
+  perl-IPC-Cmd:
+    ensure: '0.70-212.fc17'
+  perl-IPC-Run:
+    ensure: '0.89-6.fc17'
+  perl-Image-Base:
+    ensure: '1.07-18.fc17'
+  perl-Image-ExifTool:
+    ensure: '8.90-1.fc17'
+  perl-Image-Info:
+    ensure: '1.28-12.fc17'
+  perl-Image-Xbm:
+    ensure: '1.08-17.fc17'
+  perl-Image-Xpm:
+    ensure: '1.09-17.fc17'
+  perl-JSON:
+    ensure: '2.53-4.fc17'
+  perl-JSON-PP:
+    ensure: '2.27200-3.fc17'
+  perl-JSON-XS:
+    ensure: '2.32-1.fc17'
+  perl-LWP-MediaTypes:
+    ensure: '6.01-4.fc17'
+  perl-List-MoreUtils:
+    ensure: '0.33-1.fc17'
+  perl-Locale-Codes:
+    ensure: '3.22-1.fc17'
+  perl-Locale-Maketext-Simple:
+    ensure: '0.21-212.fc17'
+  perl-Log-Dispatch:
+    ensure: '2.29-1.fc17'
+  perl-Log-Dispatch-FileRotate:
+    ensure: '1.19-10.fc17'
+  perl-Log-Log4perl:
+    ensure: '1.35-1.fc17'
+  perl-MIME-Lite:
+    ensure: '3.028-2.fc17'
+  perl-MIME-Types:
+    ensure: '1.31-3.fc17'
+  perl-Mail-Sender:
+    ensure: '0.8.16-9.fc17'
+  perl-Mail-Sendmail:
+    ensure: '0.79-18.fc17'
+  perl-MailTools:
+    ensure: '2.08-3.fc17'
+  perl-Math-Round:
+    ensure: '0.06-12.fc17'
+  perl-Module-Build:
+    ensure: '0.3800-212.fc17'
+  perl-Module-CoreList:
+    ensure: '2.49-212.fc17'
+  perl-Module-Implementation:
+    ensure: '0.06-1.fc17'
+  perl-Module-Load:
+    ensure: '0.18-212.fc17'
+  perl-Module-Load-Conditional:
+    ensure: '0.44-212.fc17'
+  perl-Module-Manifest:
+    ensure: '1.08-5.fc17'
+  perl-Module-Metadata:
+    ensure: '1.000009-1.fc17'
+  perl-Module-Pluggable:
+    ensure: '3.90-212.fc17'
+  perl-Module-Refresh:
+    ensure: '0.17-2.fc17'
+  perl-Module-Runtime:
+    ensure: '0.013-1.fc17'
+  perl-Module-Starter:
+    ensure: '1.58-2.fc17'
+  perl-Net-HTTP:
+    ensure: '6.02-2.fc17'
+  perl-Net-LibIDN:
+    ensure: '0.12-8.fc17'
+  perl-Net-SMTP-SSL:
+    ensure: '1.01-9.fc17'
+  perl-Net-SSLeay:
+    ensure: '1.48-1.fc17'
+  perl-Net-Telnet:
+    ensure: '3.03-15.fc17'
+  perl-Number-Compare:
+    ensure: '0.03-2.fc17'
+  perl-ORLite:
+    ensure: '1.52-1.fc17'
+  perl-PDF-API2:
+    ensure: '2.019-2.fc17'
+  perl-POD2-Base:
+    ensure: '0.043-4.fc17'
+  perl-POE:
+    ensure: '1.350-2.fc17'
+  perl-PPI:
+    ensure: '1.215-4.fc17'
+  perl-PPIx-EditorTools:
+    ensure: '0.15-4.fc17'
+  perl-PPIx-Regexp:
+    ensure: '0.025-1.fc17'
+  perl-Package-Constants:
+    ensure: '0.02-212.fc17'
+  perl-Package-DeprecationManager:
+    ensure: '0.13-2.fc17'
+  perl-Package-Stash:
+    ensure: '0.33-2.fc17'
+  perl-Package-Stash-XS:
+    ensure: '0.25-2.fc17'
+  perl-Padre:
+    ensure: '0.90-2.fc17'
+  perl-Pango:
+    ensure: '1.221-4.fc17'
+  perl-Params-Check:
+    ensure: '0.28-212.fc17'
+  perl-Params-Util:
+    ensure: '1.07-1.fc17'
+  perl-Params-Validate:
+    ensure: '1.06-1.fc17'
+  perl-Parse-CPAN-Meta:
+    ensure: '1.4403-1.fc17'
+  perl-Parse-ErrorString-Perl:
+    ensure: '0.15-4.fc17'
+  perl-Parse-ExuberantCTags:
+    ensure: '1.02-6.fc17'
+  perl-Path-Class:
+    ensure: '0.25-1.fc17'
+  perl-PathTools:
+    ensure: '3.33-212.fc17'
+  perl-Perl-OSType:
+    ensure: '1.002-212.fc17'
+  perl-Pod-Abstract:
+    ensure: '0.20-5.fc17'
+  perl-Pod-Escapes:
+    ensure: '1.04-212.fc17'
+  perl-Pod-POM:
+    ensure: '0.27-5.fc17'
+  perl-Pod-Perldoc:
+    ensure: '3.17-2.fc17'
+  perl-Pod-Plainer:
+    ensure: '1.03-1.fc17'
+  perl-Pod-Simple:
+    ensure: '3.16-212.fc17'
+  perl-Probe-Perl:
+    ensure: '0.01-10.fc17'
+  perl-Proc-ProcessTable:
+    ensure: '0.44-10.fc17'
+  perl-Readonly:
+    ensure: '1.03-18.fc17'
+  perl-Readonly-XS:
+    ensure: '1.05-10.fc17'
+  perl-SQL-Statement:
+    ensure: '1.33-4.fc17'
+  perl-Sane:
+    ensure: '0.05-1.fc17'
+  perl-Scalar-List-Utils:
+    ensure: '1.25-1.fc17'
+  perl-Set-IntSpan:
+    ensure: '1.16-4.fc17'
+  perl-Socket:
+    ensure: '2.001-1.fc17'
+  perl-Socket-GetAddrInfo:
+    ensure: '0.19-1.fc17'
+  perl-Socket6:
+    ensure: '0.23-8.fc17'
+  perl-Sub-Install:
+    ensure: '0.926-1.fc17'
+  perl-Sys-Guestfs:
+    ensure: '1.18.6-3.fc17'
+  perl-Sys-SigAction:
+    ensure: '0.11-9.fc17'
+  perl-Sys-Virt:
+    ensure: '0.9.11-1.fc17'
+  perl-Task-Weaken:
+    ensure: '1.04-2.fc17'
+  perl-Template-Tiny:
+    ensure: '1.12-2.fc17'
+  perl-Template-Toolkit:
+    ensure: '2.24-1.fc17'
+  perl-Term-ProgressBar:
+    ensure: '2.10-1.fc17'
+  perl-TermReadKey:
+    ensure: '2.30-14.fc17'
+  perl-Test-Harness:
+    ensure: '3.23-212.fc17'
+  perl-Test-Simple:
+    ensure: '0.98-212.fc17'
+  perl-Text-CSV_XS:
+    ensure: '0.88-1.fc17'
+  perl-Text-Diff:
+    ensure: '1.41-1.fc17'
+  perl-Text-FindIndent:
+    ensure: '0.10-4.fc17'
+  perl-Text-Glob:
+    ensure: '0.09-3.fc17'
+  perl-TimeDate:
+    ensure: '1.20-6.fc17'
+  perl-Try-Tiny:
+    ensure: '0.11-4.fc17'
+  perl-URI:
+    ensure: '1.60-1.fc17'
+  perl-Version-Requirements:
+    ensure: '0.101022-1.fc17'
+  perl-WWW-RobotRules:
+    ensure: '6.01-4.fc17'
+  perl-Wx:
+    ensure: '0.9903-2.fc17'
+  perl-Wx-Perl-ProcessStream:
+    ensure: '0.30-4.fc17'
+  perl-XML-DOM:
+    ensure: '1.44-13.fc17'
+  perl-XML-DOM-XPath:
+    ensure: '0.14-9.fc17'
+  perl-XML-Parser:
+    ensure: '2.41-4.fc17'
+  perl-XML-RegExp:
+    ensure: '0.03-12.fc17'
+  perl-XML-Simple:
+    ensure: '2.18-11.fc17'
+  perl-XML-XPath:
+    ensure: '1.13-16.fc17'
+  perl-XML-XPathEngine:
+    ensure: '0.12-8.fc17'
+  perl-YAML:
+    ensure: '0.81-2.fc17'
+  perl-YAML-Syck:
+    ensure: '1.17-4.fc17'
+  perl-YAML-Tiny:
+    ensure: '1.51-1.fc17'
+  perl-common-sense:
+    ensure: '3.5-1.fc17'
+  perl-devel:
+    ensure: '5.14.2-212.fc17'
+  perl-forks:
+    ensure: '0.34-5.fc17'
+  perl-gettext:
+    ensure: '1.05-24.fc17'
+  perl-hivex:
+    ensure: '1.3.5-7.fc17'
+  perl-libintl:
+    ensure: '1.20-6.fc17'
+  perl-libs:
+    ensure: '5.14.2-212.fc17'
+  perl-libwww-perl:
+    ensure: '6.03-2.fc17'
+  perl-macros:
+    ensure: '5.14.2-212.fc17'
+  perl-parent:
+    ensure: '0.225-212.fc17'
+  perl-threads:
+    ensure: '1.86-2.fc17'
+  perl-threads-shared:
+    ensure: '1.40-2.fc17'
+  perl-version:
+    ensure: '0.88-212.fc17'
+  pexpect:
+    ensure: '2.3-7.fc17'
+  phonon:
+    ensure: '4.6.0-3.fc17'
+  phonon-backend-gstreamer:
+    ensure: '4.6.2-1.fc17'
+  php:
+    ensure: '5.4.5-1.fc17'
+  php-cli:
+    ensure: '5.4.5-1.fc17'
+  php-common:
+    ensure: '5.4.5-1.fc17'
+  php-gd:
+    ensure: '5.4.5-1.fc17'
+  php-mbstring:
+    ensure: '5.4.5-1.fc17'
+  php-mysql:
+    ensure: '5.4.5-1.fc17'
+  php-pdo:
+    ensure: '5.4.5-1.fc17'
+  php-xml:
+    ensure: '5.4.5-1.fc17'
+  picketbox:
+    ensure: '4.0.6-5.fc17'
+  picketbox-commons:
+    ensure: '1.0.0-2.fc17'
+  picketbox-xacml:
+    ensure: '2.0.7-1.fc17'
+  pinentry:
+    ensure: '0.8.1-6.fc17'
+  pinentry-qt:
+    ensure: '0.8.1-6.fc17'
+  pinfo:
+    ensure: '0.6.10-4.fc17'
+  pixman:
+    ensure: '0.24.4-2.fc17'
+  pkcs11-helper:
+    ensure: '1.09-2.fc17'
+  pkgconfig:
+    ensure: '0.25-4.fc17'
+  plasma-scriptengine-python:
+    ensure: '4.8.5-2.fc17'
+  plexus-active-collections:
+    ensure: '1.0-0.7.beta2.fc17'
+  plexus-archiver:
+    ensure: '2.1-1.fc17'
+  plexus-build-api:
+    ensure: '0.0.7-3.fc17'
+  plexus-cipher:
+    ensure: '1.5-7.fc17'
+  plexus-classworlds:
+    ensure: '2.4-3.fc17'
+  plexus-cli:
+    ensure: '1.2-11.fc17'
+  plexus-compiler:
+    ensure: '1.8.3-1.fc17'
+  plexus-component-api:
+    ensure: '1.0-0.7.alpha15.fc17'
+  plexus-container-default:
+    ensure: '1.0-0.8.a9.fc17'
+  plexus-containers:
+    ensure: '1.5.5-5.fc17'
+  plexus-containers-component-annotations:
+    ensure: '1.5.5-5.fc17'
+  plexus-containers-component-javadoc:
+    ensure: '1.5.5-5.fc17'
+  plexus-containers-component-metadata:
+    ensure: '1.5.5-5.fc17'
+  plexus-containers-container-default:
+    ensure: '1.5.5-5.fc17'
+  plexus-digest:
+    ensure: '1.1-6.fc17'
+  plexus-i18n:
+    ensure: '1.0-0.b10.2.fc17.4'
+  plexus-interactivity:
+    ensure: '1.0-0.4.a6.8.fc17'
+  plexus-interpolation:
+    ensure: '1.14-3.fc17'
+  plexus-io:
+    ensure: '2.0.2-1.fc17'
+  plexus-sec-dispatcher:
+    ensure: '1.4-4.fc16'
+  plexus-utils:
+    ensure: '3.0-2.fc17'
+  plexus-velocity:
+    ensure: '1.1.8-9.fc17'
+  plotutils:
+    ensure: '2.6-4.fc17'
+  plymouth:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-core-libs:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-graphics-libs:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-plugin-label:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-plugin-two-step:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-scripts:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-system-theme:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  plymouth-theme-charge:
+    ensure: '0.8.5-0.2012.04.27.2.fc17'
+  pm-utils:
+    ensure: '1.4.1-18.fc17'
+  pmd:
+    ensure: '4.2.5-11.fc16'
+  pnm2ppa:
+    ensure: '1.04-23.fc17'
+  policycoreutils:
+    ensure: '2.1.11-18.fc17'
+  policycoreutils-python:
+    ensure: '2.1.11-18.fc17'
+  policycoreutils-sandbox:
+    ensure: '2.1.11-18.fc17'
+  polkit:
+    ensure: '0.104-6.fc17'
+  polkit-kde:
+    ensure: '0.99.0-4.fc17'
+  polkit-qt:
+    ensure: '0.103.0-2.fc17'
+  poppler:
+    ensure: '0.18.4-3.fc17'
+  poppler-data:
+    ensure: '0.4.5-2.fc17'
+  poppler-glib:
+    ensure: '0.18.4-3.fc17'
+  poppler-qt:
+    ensure: '0.18.4-3.fc17'
+  poppler-utils:
+    ensure: '0.18.4-3.fc17'
+  popt:
+    ensure: '1.13-10.fc17'
+  popt-devel:
+    ensure: '1.13-10.fc17'
+  portreserve:
+    ensure: '0.0.5-4.fc17'
+  postgresql:
+    ensure: '9.1.5-1.fc17'
+  postgresql-contrib:
+    ensure: '9.1.5-1.fc17'
+  postgresql-jdbc:
+    ensure: '9.1.901-3.fc17'
+  postgresql-libs:
+    ensure: '9.1.5-1.fc17'
+  postgresql-server:
+    ensure: '9.1.5-1.fc17'
+  ppl:
+    ensure: '0.11.2-8.fc17'
+  ppl-pwl:
+    ensure: '0.11.2-8.fc17'
+  ppp:
+    ensure: '2.4.5-22.fc17'
+  pptp:
+    ensure: '1.7.2-14.fc17'
+  prelink:
+    ensure: '0.4.6-5.fc17'
+  preupgrade:
+    ensure: '1.1.10-2.fc17'
+  printer-filters:
+    ensure: '1.1-6.fc17'
+  prison:
+    ensure: '1.0-4.fc17'
+  procmail:
+    ensure: '3.22-29.fc17'
+  procps:
+    ensure: '3.2.8-26.20110302git.fc17'
+  protobuf-java:
+    ensure: '2.4.1-6.fc17'
+  psacct:
+    ensure: '6.5.5-5.fc17'
+  psmisc:
+    ensure: '22.16-1.fc17'
+  pstoedit:
+    ensure: '3.60-4.fc17'
+  psutils:
+    ensure: '1.17-38.fc17'
+  pth:
+    ensure: '2.0.7-15.fc17'
+  ptouch-driver:
+    ensure: '1.3-8.fc17'
+  pulseaudio:
+    ensure: '1.1-9.fc17'
+  pulseaudio-libs:
+    ensure: '1.1-9.fc17'
+  pulseaudio-libs-glib2:
+    ensure: '1.1-9.fc17'
+  pulseaudio-module-bluetooth:
+    ensure: '1.1-9.fc17'
+  pulseaudio-module-x11:
+    ensure: '1.1-9.fc17'
+  pulseaudio-utils:
+    ensure: '1.1-9.fc17'
+  puppet:
+    ensure: '3.0.1-1.fc17'
+  puppetlabs-release:
+    ensure: '17-5'
+  pyOpenSSL:
+    ensure: '0.12-2.fc17'
+  pycairo:
+    ensure: '1.8.10-4.fc17'
+  pygobject2:
+    ensure: '2.28.6-5.fc17'
+  pygpgme:
+    ensure: '0.2-2.fc17'
+  pygtk2:
+    ensure: '2.24.0-4.fc17'
+  pygtk2-libglade:
+    ensure: '2.24.0-4.fc17'
+  pykde4:
+    ensure: '4.8.5-1.fc17'
+  pykickstart:
+    ensure: '1.99.7-1.fc17'
+  pyliblzma:
+    ensure: '0.5.3-6.fc17'
+  pyparted:
+    ensure: '3.8-3.fc17'
+  python:
+    ensure: '2.7.3-7.2.fc17'
+  python-IPy:
+    ensure: '0.75-2.fc17'
+  python-boto:
+    ensure: '2.5.2-1.fc17'
+  python-bugzilla:
+    ensure: '0.7.0-1.fc17'
+  python-chardet:
+    ensure: '2.0.1-4.fc17'
+  python-cheetah:
+    ensure: '2.4.4-2.fc17'
+  python-cloudservers:
+    ensure: '1.2-3.fc16'
+  python-cups:
+    ensure: '1.9.61-2.fc17'
+  python-decorator:
+    ensure: '3.3.3-1.fc17'
+  python-deltarpm:
+    ensure: '3.6-0.7.20110223git.fc17'
+  python-devel:
+    ensure: '2.7.3-7.2.fc17'
+  python-ethtool:
+    ensure: '0.7-3.fc17'
+  python-httplib2:
+    ensure: '0.7.4-6.fc17'
+  python-imaging:
+    ensure: '1.1.7-6.fc17'
+  python-iniparse:
+    ensure: '0.4-4.fc17'
+  python-iwlib:
+    ensure: '1.2-1.fc17'
+  python-kid:
+    ensure: '0.9.6-9.fc17'
+  python-kitchen:
+    ensure: '1.1.1-1.fc17'
+  python-libguestfs:
+    ensure: '1.18.6-3.fc17'
+  python-libs:
+    ensure: '2.7.3-7.2.fc17'
+  python-lockfile:
+    ensure: '0.9.1-2.fc17'
+  python-lxml:
+    ensure: '2.3.3-1.fc17'
+  python-magic:
+    ensure: '5.11-2.fc17'
+  python-markdown:
+    ensure: '2.1.1-1.fc17'
+  python-meh:
+    ensure: '0.12-1.fc17'
+  python-netaddr:
+    ensure: '0.7.5-4.fc17'
+  python-nose:
+    ensure: '1.1.2-2.fc17'
+  python-nss:
+    ensure: '0.12-3.fc17'
+  python-oauth2:
+    ensure: '1.5.211-1.fc17'
+  python-paste:
+    ensure: '1.7.5.1-6.20111221hg1498.fc17'
+  python-paste-deploy:
+    ensure: '1.5.0-4.fc17'
+  python-prettytable:
+    ensure: '0.5-3.fc17'
+  python-psphere:
+    ensure: '0.1.4-2.fc17'
+  python-pwquality:
+    ensure: '1.1.1-1.fc17'
+  python-pyblock:
+    ensure: '0.53-2.fc17'
+  python-pycurl:
+    ensure: '7.19.0-10.fc17'
+  python-pygments:
+    ensure: '1.4-4.fc17'
+  python-setuptools:
+    ensure: '0.6.27-2.fc17'
+  python-simplejson:
+    ensure: '2.5.2-1.fc17'
+  python-slip:
+    ensure: '0.2.20-2.fc17'
+  python-slip-dbus:
+    ensure: '0.2.20-2.fc17'
+  python-slip-gtk:
+    ensure: '0.2.20-2.fc17'
+  python-suds:
+    ensure: '0.4.1-2.fc17'
+  python-tempita:
+    ensure: '0.5.1-1.fc17'
+  python-urlgrabber:
+    ensure: '3.9.1-16.fc17'
+  python-virtinst:
+    ensure: '0.600.3-1.fc17'
+  python-zope-interface:
+    ensure: '3.7.0-1.fc17'
+  pyxdg:
+    ensure: '0.19-4.fc17'
+  qca-ossl:
+    ensure: '2.0.0-0.15.beta3.fc17'
+  qca2:
+    ensure: '2.0.3-3.fc17'
+  qdox:
+    ensure: '1.12-4.fc17'
+  qemu-common:
+    ensure: '1.0.1-1.fc17'
+  qemu-img:
+    ensure: '1.0.1-1.fc17'
+  qemu-kvm:
+    ensure: '1.0.1-1.fc17'
+  qemu-kvm-tools:
+    ensure: '1.0.1-1.fc17'
+  qemu-system-x86:
+    ensure: '1.0.1-1.fc17'
+  qimageblitz:
+    ensure: '0.0.6-3.fc17'
+  qjson:
+    ensure: '0.7.1-6.fc17'
+  ql2500-firmware:
+    ensure: '5.06.05-1.fc17'
+  qrencode:
+    ensure: '3.3.1-3.fc17'
+  qt:
+    ensure: '4.8.2-4.fc17'
+  qt-mobility:
+    ensure: '1.2.0-10.20110922.fc17'
+  qt-mysql:
+    ensure: '4.8.2-4.fc17'
+  qt-settings:
+    ensure: '4.8-18.fc17'
+  qt-x11:
+    ensure: '4.8.2-4.fc17'
+  qt3:
+    ensure: '3.3.8b-41.fc17'
+  qtscriptbindings:
+    ensure: '0.2.0-3.fc17'
+  qtsoap:
+    ensure: '2.7-3.fc17'
+  qtwebkit:
+    ensure: '2.2.2-1.fc17'
+  quartz:
+    ensure: '2.1.2-3.fc17'
+  quota:
+    ensure: '4.00-4.fc17'
+  quota-nls:
+    ensure: '4.00-4.fc17'
+  qwt:
+    ensure: '5.2.2-2.fc17'
+  radeontool:
+    ensure: '1.5-8.fc17'
+  radvd:
+    ensure: '1.8.5-3.fc17'
+  raptor:
+    ensure: '1.4.21-12.fc17'
+  raptor2:
+    ensure: '2.0.7-1.fc17'
+  rarian:
+    ensure: '0.8.1-7.fc17'
+  rarian-compat:
+    ensure: '0.8.1-7.fc17'
+  rasqal:
+    ensure: '0.9.28-1.fc17'
+  rcs:
+    ensure: '5.8.1-2.fc17'
+  rdate:
+    ensure: '1.4-19.fc17'
+  rdesktop:
+    ensure: '1.7.0-2.fc17'
+  rdist:
+    ensure: '6.1.5-53.fc17'
+  readline:
+    ensure: '6.2-4.fc17'
+  redhat-lsb:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-core:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-cxx:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-desktop:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-languages:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-printing:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-submod-multimedia:
+    ensure: '4.1-5.fc17'
+  redhat-lsb-submod-security:
+    ensure: '4.1-5.fc17'
+  redhat-menus:
+    ensure: '12.0.2-4.fc17'
+  redland:
+    ensure: '1.0.15-1.fc17'
+  redland-virtuoso:
+    ensure: '1.0.15-1.fc17'
+  regexp:
+    ensure: '1.5-7.fc17'
+  reiserfs-utils:
+    ensure: '3.6.21-6.fc17'
+  relaxngDatatype:
+    ensure: '1.0-7.3.fc17'
+  relaxngcc:
+    ensure: '1.12-3.fc17'
+  repoview:
+    ensure: '0.6.6-2.fc17'
+  resteasy:
+    ensure: '2.3.2-7.fc17'
+  rhino:
+    ensure: '1.7R3-4.fc17'
+  rhq-plugin-annotations:
+    ensure: '3.0.4-2.fc17'
+  riak:
+    ensure: '1.2.0-1.fc15'
+  rmt:
+    ensure: '0.4-0.12.b44.fc17'
+  rng-tools:
+    ensure: '3-4.fc17'
+  rngom:
+    ensure: '201103-0.4.20120119svn.fc17'
+  rootfiles:
+    ensure: '8.1-8.fc17'
+  rp-pppoe:
+    ensure: '3.10-12.fc17'
+  rpcbind:
+    ensure: '0.2.0-16.fc17'
+  rpm:
+    ensure: '4.9.1.3-7.fc17'
+  rpm-build-libs:
+    ensure: '4.9.1.3-7.fc17'
+  rpm-devel:
+    ensure: '4.9.1.3-7.fc17'
+  rpm-libs:
+    ensure: '4.9.1.3-7.fc17'
+  rpm-python:
+    ensure: '4.9.1.3-7.fc17'
+  rpmconf:
+    ensure: '0.3.3-2.fc17'
+  rpmfusion-free-release:
+    ensure: '17.0.3-1'
+  rpmfusion-nonfree-release:
+    ensure: '17.0.3-1'
+  rrdtool:
+    ensure: '1.4.7-5.fc17'
+  rrdtool-perl:
+    ensure: '1.4.7-5.fc17'
+  rsh:
+    ensure: '0.17-68.fc17'
+  rsync:
+    ensure: '3.0.9-2.fc17'
+  rsyslog:
+    ensure: '5.8.10-2.fc17'
+  rsyslog-relp:
+    ensure: '5.8.10-2.fc17'
+  rt61pci-firmware:
+    ensure: '1.2-9.fc17'
+  rt73usb-firmware:
+    ensure: '1.8-9.fc17'
+  rtkit:
+    ensure: '0.10-2.fc17'
+  ruby:
+    ensure: '1.9.3.194-15.fc17'
+  ruby-augeas:
+    ensure: '0.4.1-3.fc17'
+  ruby-irb:
+    ensure: '1.9.3.194-15.fc17'
+  ruby-libs:
+    ensure: '1.9.3.194-15.fc17'
+  ruby-shadow:
+    ensure: '1.4.1-16.fc17'
+  rubygem-abstract:
+    ensure: '1.0.0-5.fc17'
+  rubygem-actionmailer:
+    ensure: '3.0.11-2.fc17'
+  rubygem-actionpack:
+    ensure: '3.0.11-7.fc17'
+  rubygem-activemodel:
+    ensure: '3.0.11-1.fc17'
+  rubygem-activerecord:
+    ensure: '3.0.11-3.fc17'
+  rubygem-activeresource:
+    ensure: '3.0.11-1.fc17'
+  rubygem-activesupport:
+    ensure: '3.0.11-6.fc17'
+  rubygem-aeolus-cli:
+    ensure: '0.5.0-1.fc17'
+  rubygem-aeolus-image:
+    ensure: '0.5.0-1.fc17'
+  rubygem-arel:
+    ensure: '2.0.9-4.fc17'
+  rubygem-aws:
+    ensure: '2.5.6-3.fc17'
+  rubygem-bigdecimal:
+    ensure: '1.1.0-15.fc17'
+  rubygem-builder:
+    ensure: '2.1.2-9.fc17'
+  rubygem-bundler:
+    ensure: '1.0.21-1.fc17'
+  rubygem-chunky_png:
+    ensure: '1.2.0-4.fc17'
+  rubygem-compass:
+    ensure: '0.11.5-4.fc17'
+  rubygem-compass-960-plugin:
+    ensure: '0.10.4-3.fc17'
+  rubygem-crack:
+    ensure: '0.3.1-3.fc17'
+  rubygem-curb:
+    ensure: '0.7.10-4.fc17'
+  rubygem-daemons:
+    ensure: '1.0.10-5.fc17'
+  rubygem-delayed_job:
+    ensure: '2.1.4-3.fc17'
+  rubygem-deltacloud-client:
+    ensure: '0.5.0-3.fc17'
+  rubygem-diff-lcs:
+    ensure: '1.1.2-7.fc17'
+  rubygem-erubis:
+    ensure: '2.6.6-3.fc17'
+  rubygem-eventmachine:
+    ensure: '0.12.10-6.fc17'
+  rubygem-fssm:
+    ensure: '0.2.7-3.fc17'
+  rubygem-haml:
+    ensure: '3.1.2-5.fc17'
+  rubygem-highline:
+    ensure: '1.6.11-1.fc17'
+  rubygem-hpricot:
+    ensure: '0.8.6-1.fc17'
+  rubygem-http_connection:
+    ensure: '1.4.1-4.fc17'
+  rubygem-i18n:
+    ensure: '0.5.0-3.fc17'
+  rubygem-io-console:
+    ensure: '0.3-15.fc17'
+  rubygem-json:
+    ensure: '1.6.5-1.fc17'
+  rubygem-mail:
+    ensure: '2.4.4-1.fc17'
+  rubygem-maruku:
+    ensure: '0.6.0-7.fc17'
+  rubygem-mime-types:
+    ensure: '1.16-7.fc17'
+  rubygem-mustache:
+    ensure: '0.99.4-4.fc17'
+  rubygem-net-ldap:
+    ensure: '0.2.2-3.fc17'
+  rubygem-net-ssh:
+    ensure: '2.2.1-3.fc17'
+  rubygem-nokogiri:
+    ensure: '1.5.5-1.fc17'
+  rubygem-oauth:
+    ensure: '0.4.4-3.fc17'
+  rubygem-paranoia:
+    ensure: '1.1.0-3.fc17'
+  rubygem-pg:
+    ensure: '0.12.2-2.fc17'
+  rubygem-polyglot:
+    ensure: '0.3.1-3.fc17'
+  rubygem-rack:
+    ensure: '1.4.0-2.fc17'
+  rubygem-rack-accept:
+    ensure: '0.4.3-8.fc17'
+  rubygem-rack-mount:
+    ensure: '0.7.1-5.fc17'
+  rubygem-rack-protection:
+    ensure: '1.2.0-4.fc17'
+  rubygem-rack-restful_submit:
+    ensure: '1.2.2-2.fc17'
+  rubygem-rack-test:
+    ensure: '0.6.0-4.fc17'
+  rubygem-rails:
+    ensure: '3.0.11-1.fc17'
+  rubygem-rails_warden:
+    ensure: '0.5.6-1.fc17'
+  rubygem-railties:
+    ensure: '3.0.11-1.fc17'
+  rubygem-rake:
+    ensure: '0.9.2.2-15.fc17'
+  rubygem-rbovirt:
+    ensure: '0.0.12-1.fc17'
+  rubygem-rbvmomi:
+    ensure: '1.2.3-5.fc17'
+  rubygem-rdoc:
+    ensure: '3.12-3.fc17'
+  rubygem-regin:
+    ensure: '0.3.8-3.fc17'
+  rubygem-rest-client:
+    ensure: '1.6.1-4.fc17'
+  rubygem-ruby2ruby:
+    ensure: '1.2.4-6.fc17'
+  rubygem-ruby_parser:
+    ensure: '2.0.4-7.fc17'
+  rubygem-sass:
+    ensure: '3.1.7-6.fc17'
+  rubygem-sexp_processor:
+    ensure: '3.0.4-5.fc17'
+  rubygem-simple-navigation:
+    ensure: '3.5.1-3.fc17'
+  rubygem-sinatra:
+    ensure: '1.3.2-8.fc17'
+  rubygem-sinatra-rabbit:
+    ensure: '1.0.9-1.fc17'
+  rubygem-syntax:
+    ensure: '1.0.0-6.fc17'
+  rubygem-text-format:
+    ensure: '1.0.0-7.fc17'
+  rubygem-thin:
+    ensure: '1.3.1-3.fc17'
+  rubygem-thor:
+    ensure: '0.14.6-5.fc17'
+  rubygem-tilt:
+    ensure: '1.3.3-3.fc17'
+  rubygem-treetop:
+    ensure: '1.4.10-2.fc17'
+  rubygem-trollop:
+    ensure: '2.0-1.fc17'
+  rubygem-tzinfo:
+    ensure: '0.3.30-3.fc17'
+  rubygem-uuidtools:
+    ensure: '2.1.2-3.fc17'
+  rubygem-warden:
+    ensure: '1.0.5-3.fc17'
+  rubygem-will_paginate:
+    ensure: '3.0.2-3.fc17'
+  rubygem-xml-simple:
+    ensure: '1.0.12-7.fc17'
+  rubygem-yard:
+    ensure: '0.7.4-3.fc17'
+  rubygems:
+    ensure: '1.8.24-1.fc17'
+  sac:
+    ensure: '1.3-12.fc17'
+  samba:
+    ensure: '3.6.6-92.fc17.1'
+  samba-client:
+    ensure: '3.6.6-92.fc17.1'
+  samba-common:
+    ensure: '3.6.6-92.fc17.1'
+  samba-winbind-clients:
+    ensure: '3.6.6-92.fc17.1'
+  sane-backends:
+    ensure: '1.0.22-11.fc17'
+  sane-backends-drivers-cameras:
+    ensure: '1.0.22-11.fc17'
+  sane-backends-drivers-scanners:
+    ensure: '1.0.22-11.fc17'
+  sane-backends-libs:
+    ensure: '1.0.22-11.fc17'
+  sane-frontends:
+    ensure: '1.0.14-14.fc17'
+  sanlock:
+    ensure: '2.4-2.fc17'
+  sanlock-lib:
+    ensure: '2.4-2.fc17'
+  sanlock-python:
+    ensure: '2.4-2.fc17'
+  saxon:
+    ensure: '9.3.0.4-4.fc17'
+  saxon-scripts:
+    ensure: '9.3.0.4-4.fc17'
+  saxpath:
+    ensure: '1.0-3.7.fc17'
+  scannotation:
+    ensure: '1.0.3-0.3.r12.fc17'
+  schroedinger:
+    ensure: '1.0.11-1.fc17'
+  scrub:
+    ensure: '2.4.1-2.fc17'
+  seabios:
+    ensure: '1.7.0-1.fc17'
+  seabios-bin:
+    ensure: '1.7.0-1.fc17'
+  sed:
+    ensure: '4.2.1-10.fc17'
+  selinux-policy:
+    ensure: '3.10.0-146.fc17'
+  selinux-policy-devel:
+    ensure: '3.10.0-146.fc17'
+  selinux-policy-targeted:
+    ensure: '3.10.0-146.fc17'
+  sendmail:
+    ensure: '8.14.5-14.fc17'
+  serp:
+    ensure: '1.14.2-0.1.20120406cvs.fc17'
+  setools-libs:
+    ensure: '3.3.7-24.fc17'
+  setools-libs-python:
+    ensure: '3.3.7-24.fc17'
+  setroubleshoot:
+    ensure: '3.1.15-1.fc17'
+  setroubleshoot-plugins:
+    ensure: '3.0.41-1.fc17'
+  setroubleshoot-server:
+    ensure: '3.1.15-1.fc17'
+  setserial:
+    ensure: '2.17-28.fc17'
+  setup:
+    ensure: '2.8.48-1.fc17'
+  setuptool:
+    ensure: '1.19.11-4.fc17'
+  sg3_utils:
+    ensure: '1.31-2.fc17'
+  sg3_utils-libs:
+    ensure: '1.31-2.fc17'
+  sgabios-bin:
+    ensure: '0-0.20110622SVN.fc17'
+  sgml-common:
+    ensure: '0.6.3-36.fc17'
+  sgpio:
+    ensure: '1.2.0.10-6.fc17'
+  shadow-utils:
+    ensure: '4.1.4.3-14.fc17'
+  shared-color-profiles:
+    ensure: '0.1.5-2.fc17'
+  shared-desktop-ontologies:
+    ensure: '0.10.0-2.fc17'
+  shared-mime-info:
+    ensure: '1.0-4.fc17'
+  shrinkwrap:
+    ensure: '1.0.0-1.fc17'
+  shrinkwrap-descriptors:
+    ensure: '2.0.0-0.1.alpha2.fc17'
+  shrinkwrap-resolver:
+    ensure: '1.0.0-0.1.beta7.fc17'
+  sil-abyssinica-fonts:
+    ensure: '1.200-2.fc17'
+  sil-padauk-fonts:
+    ensure: '2.4-8.fc17'
+  sip:
+    ensure: '4.13.2-1.fc17'
+  sisu:
+    ensure: '2.2.3-3.fc17'
+  skanlite:
+    ensure: '0.8-3.fc17'
+  slang:
+    ensure: '2.2.4-3.fc17'
+  slf4j:
+    ensure: '1.6.6-1.fc17'
+  slf4j-jboss-logmanager:
+    ensure: '1.0.0-2.fc17'
+  smartmontools:
+    ensure: '5.43-1.fc17'
+  smc-fonts-common:
+    ensure: '5.0.1-2.fc17'
+  smc-meera-fonts:
+    ensure: '5.0.1-2.fc17'
+  smolt:
+    ensure: '1.4.3-6.fc17'
+  smolt-firstboot:
+    ensure: '1.4.3-6.fc17'
+  smp_utils:
+    ensure: '0.97-1.fc17'
+  smp_utils-libs:
+    ensure: '0.97-1.fc17'
+  snakeyaml:
+    ensure: '1.9-1.fc17'
+  snappy:
+    ensure: '1.0.5-1.fc17'
+  snappy-java:
+    ensure: '1.0.4.1-2.fc17'
+  sonatype-oss-parent:
+    ensure: '6-3.fc17'
+  soprano:
+    ensure: '2.7.6-1.fc17'
+  sos:
+    ensure: '2.2-3.fc17'
+  sound-theme-freedesktop:
+    ensure: '0.7-4.fc17'
+  spambayes:
+    ensure: '1.1-0.4.a6.fc17'
+  speex:
+    ensure: '1.2-0.14.rc1.fc17'
+  spice-client:
+    ensure: '0.10.1-5.fc17'
+  spice-glib:
+    ensure: '0.12-4.fc17'
+  spice-gtk:
+    ensure: '0.12-4.fc17'
+  spice-gtk-python:
+    ensure: '0.12-4.fc17'
+  spice-gtk3:
+    ensure: '0.12-4.fc17'
+  spice-parent:
+    ensure: '15-5.fc17'
+  spice-server:
+    ensure: '0.10.1-5.fc17'
+  spice-xpi:
+    ensure: '2.7-2.fc17'
+  spring-ldap:
+    ensure: '1.3.1-1.fc17'
+  springframework:
+    ensure: '3.1.1-6.fc17'
+  springframework-aop:
+    ensure: '3.1.1-6.fc17'
+  springframework-beans:
+    ensure: '3.1.1-6.fc17'
+  springframework-context:
+    ensure: '3.1.1-6.fc17'
+  springframework-expression:
+    ensure: '3.1.1-6.fc17'
+  springframework-instrument:
+    ensure: '3.1.1-6.fc17'
+  springframework-jdbc:
+    ensure: '3.1.1-6.fc17'
+  springframework-tx:
+    ensure: '3.1.1-6.fc17'
+  sqlite:
+    ensure: '3.7.11-3.fc17'
+  sqljet:
+    ensure: '1.0.4-5.fc17'
+  squashfs-tools:
+    ensure: '4.2-2.fc17'
+  sssd:
+    ensure: '1.8.4-14.fc17'
+  sssd-client:
+    ensure: '1.8.4-14.fc17'
+  startup-notification:
+    ensure: '0.12-3.fc17'
+  stax-ex:
+    ensure: '1.7-1.fc17'
+  stax2-api:
+    ensure: '3.1.1-3.fc17'
+  staxmapper:
+    ensure: '1.1.0-2.fc17'
+  stix-fonts:
+    ensure: '1.0.0-3.fc17'
+  strace:
+    ensure: '4.7-1.fc17'
+  strigi-libs:
+    ensure: '0.7.7-3.fc17'
+  stringtemplate4:
+    ensure: '4.0.4-1.fc17'
+  stunnel:
+    ensure: '4.50-2.fc17'
+  subversion:
+    ensure: '1.7.5-1.fc17'
+  subversion-libs:
+    ensure: '1.7.5-1.fc17'
+  sudo:
+    ensure: '1.8.3p1-7.fc17'
+  superkaramba:
+    ensure: '4.8.5-1.fc17'
+  superkaramba-libs:
+    ensure: '4.8.5-1.fc17'
+  svgpart:
+    ensure: '4.8.5-1.fc17'
+  svnkit:
+    ensure: '1.3.4-2.fc15'
+  sweeper:
+    ensure: '4.8.5-1.fc17'
+  symlinks:
+    ensure: '1.4-5.fc17'
+  syslinux:
+    ensure: '4.05-1.fc17'
+  syslinux-extlinux:
+    ensure: '4.05-1.fc17'
+  system-config-boot:
+    ensure: '1.0-2.fc17'
+  system-config-date:
+    ensure: '1.9.67-2.fc17'
+  system-config-firewall:
+    ensure: '1.2.29-7.fc17'
+  system-config-firewall-base:
+    ensure: '1.2.29-7.fc17'
+  system-config-firewall-tui:
+    ensure: '1.2.29-7.fc17'
+  system-config-keyboard:
+    ensure: '1.3.1-8.fc17'
+  system-config-keyboard-base:
+    ensure: '1.3.1-8.fc17'
+  system-config-language:
+    ensure: '1.3.5-11.fc17'
+  system-config-network-tui:
+    ensure: '1.6.3-2.fc17'
+  system-config-printer-kde:
+    ensure: '4.8.4-1.fc17'
+  system-config-printer-libs:
+    ensure: '1.3.9-1.fc17'
+  system-config-printer-udev:
+    ensure: '1.3.9-1.fc17'
+  system-config-services:
+    ensure: '0.101.7-2.fc17'
+  system-config-users:
+    ensure: '1.2.116-1.fc17'
+  system-setup-keyboard:
+    ensure: '0.8.8-2.fc17'
+  systemd:
+    ensure: '44-17.fc17'
+  systemd-analyze:
+    ensure: '44-17.fc17'
+  systemd-sysv:
+    ensure: '44-17.fc17'
+  systemtap-sdt-devel:
+    ensure: '1.8-4.fc17'
+  sysvinit-tools:
+    ensure: '2.88-6.dsf.fc17'
+  t1lib:
+    ensure: '5.1.2-9.fc17'
+  taglib:
+    ensure: '1.7.2-1.fc17'
+  taglib-extras:
+    ensure: '1.0.1-3.fc17'
+  talk:
+    ensure: '0.17-38.fc17'
+  tar:
+    ensure: '1.26-7.fc17'
+  tbb:
+    ensure: '4.0-2.20110809.fc17'
+  tcl:
+    ensure: '8.5.11-2.fc17'
+  tcp_wrappers:
+    ensure: '7.6-69.fc17'
+  tcp_wrappers-libs:
+    ensure: '7.6-69.fc17'
+  tcpdump:
+    ensure: '4.2.1-3.fc17'
+  telnet:
+    ensure: '0.17-53.fc17'
+  testng:
+    ensure: '6.0.1-1.fc16'
+  tex-preview:
+    ensure: '11.86-7.fc17'
+  tex-simplecv:
+    ensure: '1.6-10.fc17'
+  texlive:
+    ensure: '2007-70.fc17'
+  texlive-dvips:
+    ensure: '2007-70.fc17'
+  texlive-dviutils:
+    ensure: '2007-70.fc17'
+  texlive-latex:
+    ensure: '2007-70.fc17'
+  texlive-texmf:
+    ensure: '2007-41.fc17'
+  texlive-texmf-dvips:
+    ensure: '2007-41.fc17'
+  texlive-texmf-fonts:
+    ensure: '2007-41.fc17'
+  texlive-texmf-latex:
+    ensure: '2007-41.fc17'
+  texlive-utils:
+    ensure: '2007-70.fc17'
+  tftp-server:
+    ensure: '5.2-2.fc17'
+  thai-scalable-fonts-common:
+    ensure: '0.5.0-1.fc17'
+  thai-scalable-waree-fonts:
+    ensure: '0.5.0-1.fc17'
+  tigervnc:
+    ensure: '1.1.0-5.fc17'
+  tigervnc-license:
+    ensure: '1.1.0-5.fc17'
+  tigervnc-server-minimal:
+    ensure: '1.1.0-5.fc17'
+  time:
+    ensure: '1.7-40.fc17'
+  tinyxml:
+    ensure: '2.6.1-3.fc17'
+  tmpwatch:
+    ensure: '2.10.3-2.fc17'
+  tokyocabinet:
+    ensure: '1.4.47-2.fc17'
+  tomcat-el-2.2-api:
+    ensure: '7.0.29-1.fc17'
+  tomcat-jsp-2.2-api:
+    ensure: '7.0.29-1.fc17'
+  tomcat-lib:
+    ensure: '7.0.29-1.fc17'
+  tomcat-servlet-3.0-api:
+    ensure: '7.0.29-1.fc17'
+  traceroute:
+    ensure: '2.0.18-3.fc17'
+  transcode:
+    ensure: '1.1.7-7.fc17'
+  transfig:
+    ensure: '3.2.5d-7.fc17'
+  tree:
+    ensure: '1.6.0-4.fc17'
+  trilead-ssh2:
+    ensure: '213-9.fc17'
+  twolame-libs:
+    ensure: '0.3.13-2.fc17'
+  txw2:
+    ensure: '20110809-3.fc17'
+  tzdata:
+    ensure: '2012d-1.fc17'
+  tzdata-java:
+    ensure: '2012d-1.fc17'
+  ucommon:
+    ensure: '5.2.3-1.fc17'
+  udev:
+    ensure: '182-3.fc17'
+  udisks:
+    ensure: '1.0.4-6.fc17'
+  udisks2:
+    ensure: '1.94.0-8.fc17'
+  unetbootin:
+    ensure: '0-11.577bzr.fc17'
+  unique3:
+    ensure: '3.0.2-3.fc17'
+  unpaper:
+    ensure: '0.3-6.fc17'
+  unzip:
+    ensure: '6.0-5.fc17'
+  upower:
+    ensure: '0.9.17-1.fc17'
+  urlview:
+    ensure: '0.9-9.fc17'
+  urw-fonts:
+    ensure: '2.4-11.fc17'
+  usb_modeswitch:
+    ensure: '1.2.3-1.fc17'
+  usb_modeswitch-data:
+    ensure: '20120120-1.fc17'
+  usbmuxd:
+    ensure: '1.0.8-2.fc17'
+  usbredir:
+    ensure: '0.4.3-3.fc17'
+  usbutils:
+    ensure: '004-4.fc17'
+  usermode:
+    ensure: '1.109-1.fc17'
+  usermode-gtk:
+    ensure: '1.109-1.fc17'
+  ustr:
+    ensure: '1.0.4-12.fc17'
+  util-linux:
+    ensure: '2.21.2-2.fc17'
+  uuid:
+    ensure: '1.6.2-11.fc17'
+  vcdimager:
+    ensure: '0.7.24-5.fc17'
+  vcdimager-libs:
+    ensure: '0.7.24-5.fc17'
+  vconfig:
+    ensure: '1.9-10.fc17'
+  vdsm:
+    ensure: '4.10.0-7.fc17'
+  vdsm-bootstrap:
+    ensure: '4.10.0-7.fc17'
+  vdsm-cli:
+    ensure: '4.10.0-7.fc17'
+  vdsm-python:
+    ensure: '4.10.0-7.fc17'
+  vdsm-xmlrpc:
+    ensure: '4.10.0-7.fc17'
+  velocity:
+    ensure: '1.7-4.fc17'
+  vgabios:
+    ensure: '0.6c-4.fc17'
+  vim-common:
+    ensure: '7.3.638-2.fc17'
+  vim-enhanced:
+    ensure: '7.3.638-2.fc17'
+  vim-filesystem:
+    ensure: '7.3.638-2.fc17'
+  vim-minimal:
+    ensure: '7.3.638-2.fc17'
+  virt-manager:
+    ensure: '0.9.4-1.fc17'
+  virt-manager-common:
+    ensure: '0.9.4-1.fc17'
+  virt-top:
+    ensure: '1.0.6-2.fc17'
+  virt-v2v:
+    ensure: '0.8.8-1.fc17'
+  virt-viewer:
+    ensure: '0.5.3-1.fc17'
+  virtuoso-opensource:
+    ensure: '6.1.6-1.fc17'
+  vlc:
+    ensure: '2.0.3-1.fc17'
+  vlc-core:
+    ensure: '2.0.3-1.fc17'
+  vorbis-tools:
+    ensure: '1.4.0-4.fc17'
+  vpnc:
+    ensure: '0.5.3-14.svn457.fc17'
+  vpnc-script:
+    ensure: '0.5.3-14.svn457.fc17'
+  vte:
+    ensure: '0.28.2-6.fc17'
+  wavpack:
+    ensure: '4.60.1-3.fc17'
+  weld-api:
+    ensure: '1.1-3.fc17'
+  weld-core:
+    ensure: '1.1.5-3.AS71.Final.fc17'
+  werken-xpath:
+    ensure: '0.9.4-7.beta.12.4.fc17'
+  wget:
+    ensure: '1.13.4-2.fc17'
+  which:
+    ensure: '2.20-3.fc17'
+  wireless-tools:
+    ensure: '29-7.1.fc17'
+  wodim:
+    ensure: '1.1.11-12.fc17'
+  woodstox-core:
+    ensure: '4.1.2-2.fc17'
+  words:
+    ensure: '3.0-18.fc17'
+  wpa_supplicant:
+    ensure: '1.0-0.4.fc17'
+  wqy-microhei-fonts:
+    ensure: '0.2.0-0.9.beta.fc17'
+  ws-commons-util:
+    ensure: '1.0.1-22.fc17'
+  ws-jaxme:
+    ensure: '0.5.2-3.fc17'
+  wsdl4j:
+    ensure: '1.6.2-6.fc17'
+  wss4j:
+    ensure: '1.5.12-2.fc17'
+  wv:
+    ensure: '1.2.9-4.fc17'
+  wvdial:
+    ensure: '1.61-5.fc17'
+  wxBase:
+    ensure: '2.8.12-4.fc17'
+  wxGTK:
+    ensure: '2.8.12-4.fc17'
+  wxGTK-media:
+    ensure: '2.8.12-4.fc17'
+  x264-libs:
+    ensure: '0.120-5.20120303.fc17'
+  xalan-j2:
+    ensure: '2.7.1-12.fc17'
+  xapian-core-libs:
+    ensure: '1.2.12-1.fc17'
+  xbean:
+    ensure: '3.8-2.fc17'
+  xcb-util:
+    ensure: '0.3.8-2.fc17'
+  xdg-user-dirs:
+    ensure: '0.14-2.fc17'
+  xdg-utils:
+    ensure: '1.1.0-0.11.20111207.fc17'
+  xen-libs:
+    ensure: '4.1.3-2.fc17'
+  xen-licenses:
+    ensure: '4.1.3-2.fc17'
+  xerces-j2:
+    ensure: '2.11.0-7.fc17'
+  xfsprogs:
+    ensure: '3.1.8-1.fc17'
+  xine-lib:
+    ensure: '1.1.21-2.fc17'
+  xinetd:
+    ensure: '2.3.15-1.fc17'
+  xkeyboard-config:
+    ensure: '2.5.1-3.fc17'
+  xml-common:
+    ensure: '0.6.3-36.fc17'
+  xml-commons-apis:
+    ensure: '1.4.01-6.fc17'
+  xml-commons-resolver:
+    ensure: '1.2-8.fc17'
+  xml-security:
+    ensure: '1.4.5-3.fc17'
+  xmlgraphics-commons:
+    ensure: '1.4-5.fc17'
+  xmlrpc-c:
+    ensure: '1.29.3-1703.svn2290.fc17'
+  xmlrpc-c-client:
+    ensure: '1.29.3-1703.svn2290.fc17'
+  xmlrpc3-client:
+    ensure: '3.1.3-9.fc17'
+  xmlrpc3-common:
+    ensure: '3.1.3-9.fc17'
+  xmlunit:
+    ensure: '1.3-5.fc17'
+  xnio:
+    ensure: '3.0.3-1.fc17'
+  xorg-x11-apps:
+    ensure: '7.6-5.fc17'
+  xorg-x11-drivers:
+    ensure: '7.4-8.fc17'
+  xorg-x11-drv-apm:
+    ensure: '1.2.3-15.fc17'
+  xorg-x11-drv-ast:
+    ensure: '0.93.9-6.fc17'
+  xorg-x11-drv-ati:
+    ensure: '6.14.4-6.20120602git930760942.fc17'
+  xorg-x11-drv-cirrus:
+    ensure: '1.3.2-19.fc17'
+  xorg-x11-drv-dummy:
+    ensure: '0.3.5-4.fc17'
+  xorg-x11-drv-evdev:
+    ensure: '2.7.0-2.fc17'
+  xorg-x11-drv-fbdev:
+    ensure: '0.4.2-8.fc17'
+  xorg-x11-drv-glint:
+    ensure: '1.2.7-1.fc17'
+  xorg-x11-drv-i128:
+    ensure: '1.3.5-1.fc17'
+  xorg-x11-drv-i740:
+    ensure: '1.3.2-16.fc17'
+  xorg-x11-drv-intel:
+    ensure: '2.20.5-1.fc17'
+  xorg-x11-drv-keyboard:
+    ensure: '1.6.1-4.fc17'
+  xorg-x11-drv-mach64:
+    ensure: '6.9.1-1.fc17'
+  xorg-x11-drv-mga:
+    ensure: '1.4.13-19.20120104git9223c44a7.fc17'
+  xorg-x11-drv-modesetting:
+    ensure: '0.4.0-1.fc17'
+  xorg-x11-drv-mouse:
+    ensure: '1.7.2-1.fc17'
+  xorg-x11-drv-nouveau:
+    ensure: '0.0.16-37.20120306gitf5d1cd2.fc17'
+  xorg-x11-drv-nv:
+    ensure: '2.1.18-15.fc17'
+  xorg-x11-drv-openchrome:
+    ensure: '0.2.906-1.fc17'
+  xorg-x11-drv-qxl:
+    ensure: '0.0.22-0.fc17'
+  xorg-x11-drv-r128:
+    ensure: '6.8.2-1.fc17'
+  xorg-x11-drv-rendition:
+    ensure: '4.2.4-14.fc17'
+  xorg-x11-drv-s3virge:
+    ensure: '1.10.4-15.fc17'
+  xorg-x11-drv-savage:
+    ensure: '2.3.4-1.fc17'
+  xorg-x11-drv-siliconmotion:
+    ensure: '1.7.5-9.fc17'
+  xorg-x11-drv-sis:
+    ensure: '0.10.4-1.fc17'
+  xorg-x11-drv-sisusb:
+    ensure: '0.9.4-13.fc17'
+  xorg-x11-drv-synaptics:
+    ensure: '1.6.2-1.fc17'
+  xorg-x11-drv-tdfx:
+    ensure: '1.4.3-18.20120104gitfe60f0ed2.fc17'
+  xorg-x11-drv-trident:
+    ensure: '1.3.4-14.fc17'
+  xorg-x11-drv-v4l:
+    ensure: '0.2.0-20.fc17'
+  xorg-x11-drv-vesa:
+    ensure: '2.3.1-1.fc17'
+  xorg-x11-drv-vmmouse:
+    ensure: '12.8.0-1.fc17'
+  xorg-x11-drv-vmware:
+    ensure: '12.0.2-1.fc17'
+  xorg-x11-drv-void:
+    ensure: '1.4.0-8.fc17'
+  xorg-x11-drv-voodoo:
+    ensure: '1.2.4-14.fc17'
+  xorg-x11-drv-wacom:
+    ensure: '0.14.0-2.fc17'
+  xorg-x11-font-utils:
+    ensure: '7.5-7.fc17'
+  xorg-x11-server-Xephyr:
+    ensure: '1.12.3-1.fc17'
+  xorg-x11-server-Xorg:
+    ensure: '1.12.3-1.fc17'
+  xorg-x11-server-common:
+    ensure: '1.12.3-1.fc17'
+  xorg-x11-server-utils:
+    ensure: '7.5-12.fc17'
+  xorg-x11-utils:
+    ensure: '7.5-6.fc17'
+  xorg-x11-xauth:
+    ensure: '1.0.7-1.fc17'
+  xorg-x11-xinit:
+    ensure: '1.3.2-5.fc17'
+  xorg-x11-xkb-utils:
+    ensure: '7.5-6.fc17'
+  xpp2:
+    ensure: '2.1.10-10.3.fc17'
+  xpp3:
+    ensure: '1.1.3.8-6.fc17'
+  xpp3-minimal:
+    ensure: '1.1.3.8-6.fc17'
+  xsel:
+    ensure: '1.2.0-10.fc17'
+  xsettings-kde:
+    ensure: '0.12.3-3.fc17'
+  xsom:
+    ensure: '0-5.20110809svn.fc17'
+  xstream:
+    ensure: '1.3.1-3.fc17'
+  xterm:
+    ensure: '278-1.fc17'
+  xulrunner:
+    ensure: '15.0-2.fc17'
+  xvidcore:
+    ensure: '1.3.2-3.fc17'
+  xz:
+    ensure: '5.1.1-2alpha.fc17'
+  xz-libs:
+    ensure: '5.1.1-2alpha.fc17'
+  yajl:
+    ensure: '2.0.4-1.fc17'
+  yp-tools:
+    ensure: '2.12-9.fc17'
+  ypbind:
+    ensure: '1.35-5.fc17'
+  yum:
+    ensure: '3.4.3-28.fc17'
+  yum-langpacks:
+    ensure: '0.2.5-1.fc17'
+  yum-metadata-parser:
+    ensure: '1.1.4-6.fc17'
+  yum-plugin-versionlock:
+    ensure: '1.1.31-4.fc17'
+  yum-presto:
+    ensure: '0.7.3-1.fc17'
+  yum-utils:
+    ensure: '1.1.31-4.fc17'
+  zd1211-firmware:
+    ensure: '1.4-6.fc17'
+  zeitgeist:
+    ensure: '0.9.0-1.fc17'
+  zeitgeist-datahub:
+    ensure: '0.7.0-4.fc17'
+  zenity:
+    ensure: '3.4.0-1.fc17'
+  zerofree:
+    ensure: '1.0.1-10.fc17'
+  zfs-fuse:
+    ensure: '0.7.0-2.fc17'
+  zip:
+    ensure: '3.0-4.fc17'
+  zlib:
+    ensure: '1.2.5-7.fc17'
+  zvbi:
+    ensure: '0.2.33-12.fc17'

@@ -1,0 +1,32 @@
+iptables:
+  allow_tcp:
+    - '53'    # domain (DNS)
+  allow_udp:
+    - '53'    # domain (DNS)
+
+network:
+  global:
+    default:
+      hostname:   'ns1.local'
+      gateway:    '10.5.0.252'
+      nozeroconf: 'yes'
+  if:
+    static:
+      'eth0':
+        ipaddress:  '10.5.11.16'
+        macaddress: $macaddress_eth0
+        netmask:    '255.255.0.0'
+        peerdns:    'yes'
+        dns1:       '10.5.11.15'
+        domain:     'sbet'
+        ensure:     'up'
+
+pdns:
+  nameserver:
+    backend:        'sqlite'
+    listen_address: '192.168.0.3'
+    forward_domain: 'local'
+  resolver:
+    listen_address: '127.0.0.1'
+    forward_domain: 'local'
+    nameservers:    '192.168.0.3,192.168.0.4'
